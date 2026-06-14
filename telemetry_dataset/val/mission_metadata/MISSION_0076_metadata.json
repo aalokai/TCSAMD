@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0076",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_PUN_007",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "city": "Pune",
+    "tower_type": "monopole",
+    "height_m": 30
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_001",
+  "operator": "TowerCo India",
+  "total_frames": 1740,
+  "anomaly_frames": 143,
+  "anomaly_rate_pct": 8.22,
+  "flight_date": "2024-02-13",
+  "weather": "overcast",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-63857",
+  "firmware_version": "v9.5.07"
+}

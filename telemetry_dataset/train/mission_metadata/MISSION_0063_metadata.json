@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0063",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_CHE_004",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "city": "Chennai",
+    "tower_type": "monopole",
+    "height_m": 38
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_007",
+  "operator": "TASL",
+  "total_frames": 1480,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-05-17",
+  "weather": "partly_cloudy",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-88888",
+  "firmware_version": "v5.8.71"
+}

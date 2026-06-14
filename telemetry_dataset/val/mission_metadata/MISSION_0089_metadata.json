@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0089",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_LKN_010",
+    "lat": 26.8467,
+    "lon": 80.9462,
+    "city": "Lucknow",
+    "tower_type": "guyed",
+    "height_m": 52
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_004",
+  "operator": "GTL Infra",
+  "total_frames": 770,
+  "anomaly_frames": 111,
+  "anomaly_rate_pct": 14.42,
+  "flight_date": "2024-07-18",
+  "weather": "overcast",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-44908",
+  "firmware_version": "v8.8.92"
+}

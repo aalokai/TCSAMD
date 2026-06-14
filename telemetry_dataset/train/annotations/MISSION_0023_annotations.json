@@ -1,0 +1,1410 @@
+{
+  "mission_id": "MISSION_0023",
+  "site_id": "SITE_CHE_004",
+  "total_anomaly_frames": 61,
+  "annotations": [
+    {
+      "frame_id": 680,
+      "timestamp_utc": "2024-04-03T09:59:08.000Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.786,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.94,
+      "distance_to_tower_m": 16.61
+    },
+    {
+      "frame_id": 681,
+      "timestamp_utc": "2024-04-03T09:59:08.100Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.748,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 5.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.88,
+      "distance_to_tower_m": 15.8
+    },
+    {
+      "frame_id": 682,
+      "timestamp_utc": "2024-04-03T09:59:08.200Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.809,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.93,
+      "distance_to_tower_m": 16.18
+    },
+    {
+      "frame_id": 683,
+      "timestamp_utc": "2024-04-03T09:59:08.300Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.824,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.9,
+      "distance_to_tower_m": 16.45
+    },
+    {
+      "frame_id": 684,
+      "timestamp_utc": "2024-04-03T09:59:08.400Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.81,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.89,
+      "distance_to_tower_m": 16.87
+    },
+    {
+      "frame_id": 685,
+      "timestamp_utc": "2024-04-03T09:59:08.500Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.795,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.6,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.91,
+      "distance_to_tower_m": 16.97
+    },
+    {
+      "frame_id": 686,
+      "timestamp_utc": "2024-04-03T09:59:08.600Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.788,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.91,
+      "distance_to_tower_m": 17.05
+    },
+    {
+      "frame_id": 687,
+      "timestamp_utc": "2024-04-03T09:59:08.700Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.826,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.9,
+      "distance_to_tower_m": 17.04
+    },
+    {
+      "frame_id": 688,
+      "timestamp_utc": "2024-04-03T09:59:08.800Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.805,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.85,
+      "distance_to_tower_m": 17.49
+    },
+    {
+      "frame_id": 689,
+      "timestamp_utc": "2024-04-03T09:59:08.900Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.76,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 5.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.75,
+      "distance_to_tower_m": 17.53
+    },
+    {
+      "frame_id": 690,
+      "timestamp_utc": "2024-04-03T09:59:09.000Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.784,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.76,
+      "distance_to_tower_m": 17.57
+    },
+    {
+      "frame_id": 691,
+      "timestamp_utc": "2024-04-03T09:59:09.100Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.797,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.75,
+      "distance_to_tower_m": 17.15
+    },
+    {
+      "frame_id": 692,
+      "timestamp_utc": "2024-04-03T09:59:09.200Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.841,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.73,
+      "distance_to_tower_m": 16.99
+    },
+    {
+      "frame_id": 693,
+      "timestamp_utc": "2024-04-03T09:59:09.300Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.823,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.74,
+      "distance_to_tower_m": 16.72
+    },
+    {
+      "frame_id": 694,
+      "timestamp_utc": "2024-04-03T09:59:09.400Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.804,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.78,
+      "distance_to_tower_m": 16.84
+    },
+    {
+      "frame_id": 695,
+      "timestamp_utc": "2024-04-03T09:59:09.500Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.772,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 5.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.79,
+      "distance_to_tower_m": 16.92
+    },
+    {
+      "frame_id": 696,
+      "timestamp_utc": "2024-04-03T09:59:09.600Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.835,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.84,
+      "distance_to_tower_m": 16.91
+    },
+    {
+      "frame_id": 697,
+      "timestamp_utc": "2024-04-03T09:59:09.700Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.813,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.82,
+      "distance_to_tower_m": 17.48
+    },
+    {
+      "frame_id": 698,
+      "timestamp_utc": "2024-04-03T09:59:09.800Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.81,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.78,
+      "distance_to_tower_m": 17.26
+    },
+    {
+      "frame_id": 699,
+      "timestamp_utc": "2024-04-03T09:59:09.900Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.852,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.71,
+      "distance_to_tower_m": 17.21
+    },
+    {
+      "frame_id": 700,
+      "timestamp_utc": "2024-04-03T09:59:10.000Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.796,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 10.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.71,
+      "distance_to_tower_m": 17.87
+    },
+    {
+      "frame_id": 701,
+      "timestamp_utc": "2024-04-03T09:59:10.100Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.82,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.84,
+      "distance_to_tower_m": 17.61
+    },
+    {
+      "frame_id": 702,
+      "timestamp_utc": "2024-04-03T09:59:10.200Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.822,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.85,
+      "distance_to_tower_m": 17.76
+    },
+    {
+      "frame_id": 703,
+      "timestamp_utc": "2024-04-03T09:59:10.300Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.828,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 11.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.88,
+      "distance_to_tower_m": 17.13
+    },
+    {
+      "frame_id": 704,
+      "timestamp_utc": "2024-04-03T09:59:10.400Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.777,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.6,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.9,
+      "distance_to_tower_m": 16.91
+    },
+    {
+      "frame_id": 705,
+      "timestamp_utc": "2024-04-03T09:59:10.500Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.793,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.86,
+      "distance_to_tower_m": 17.02
+    },
+    {
+      "frame_id": 706,
+      "timestamp_utc": "2024-04-03T09:59:10.600Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.822,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.86,
+      "distance_to_tower_m": 16.4
+    },
+    {
+      "frame_id": 707,
+      "timestamp_utc": "2024-04-03T09:59:10.700Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.777,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.89,
+      "distance_to_tower_m": 16.99
+    },
+    {
+      "frame_id": 708,
+      "timestamp_utc": "2024-04-03T09:59:10.800Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.817,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.94,
+      "distance_to_tower_m": 16.78
+    },
+    {
+      "frame_id": 709,
+      "timestamp_utc": "2024-04-03T09:59:10.900Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.799,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.96,
+      "distance_to_tower_m": 16.52
+    },
+    {
+      "frame_id": 710,
+      "timestamp_utc": "2024-04-03T09:59:11.000Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.771,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.02,
+      "distance_to_tower_m": 16.75
+    },
+    {
+      "frame_id": 711,
+      "timestamp_utc": "2024-04-03T09:59:11.100Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.78,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 10.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.16,
+      "distance_to_tower_m": 16.12
+    },
+    {
+      "frame_id": 712,
+      "timestamp_utc": "2024-04-03T09:59:11.200Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.833,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 4.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.13,
+      "distance_to_tower_m": 15.84
+    },
+    {
+      "frame_id": 713,
+      "timestamp_utc": "2024-04-03T09:59:11.300Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.809,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.13,
+      "distance_to_tower_m": 15.78
+    },
+    {
+      "frame_id": 714,
+      "timestamp_utc": "2024-04-03T09:59:11.400Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.818,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 10.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.11,
+      "distance_to_tower_m": 16.0
+    },
+    {
+      "frame_id": 715,
+      "timestamp_utc": "2024-04-03T09:59:11.500Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.839,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.15,
+      "distance_to_tower_m": 16.12
+    },
+    {
+      "frame_id": 716,
+      "timestamp_utc": "2024-04-03T09:59:11.600Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.775,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 5.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.15,
+      "distance_to_tower_m": 16.07
+    },
+    {
+      "frame_id": 717,
+      "timestamp_utc": "2024-04-03T09:59:11.700Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.76,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.26,
+      "distance_to_tower_m": 16.15
+    },
+    {
+      "frame_id": 718,
+      "timestamp_utc": "2024-04-03T09:59:11.800Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.759,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.25,
+      "distance_to_tower_m": 15.87
+    },
+    {
+      "frame_id": 719,
+      "timestamp_utc": "2024-04-03T09:59:11.900Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.799,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.29,
+      "distance_to_tower_m": 15.57
+    },
+    {
+      "frame_id": 720,
+      "timestamp_utc": "2024-04-03T09:59:12.000Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.8,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.29,
+      "distance_to_tower_m": 15.32
+    },
+    {
+      "frame_id": 721,
+      "timestamp_utc": "2024-04-03T09:59:12.100Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.884,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.31,
+      "distance_to_tower_m": 15.62
+    },
+    {
+      "frame_id": 722,
+      "timestamp_utc": "2024-04-03T09:59:12.200Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.759,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.29,
+      "distance_to_tower_m": 15.35
+    },
+    {
+      "frame_id": 723,
+      "timestamp_utc": "2024-04-03T09:59:12.300Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.769,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.24,
+      "distance_to_tower_m": 15.06
+    },
+    {
+      "frame_id": 724,
+      "timestamp_utc": "2024-04-03T09:59:12.400Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.748,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.28,
+      "distance_to_tower_m": 14.82
+    },
+    {
+      "frame_id": 725,
+      "timestamp_utc": "2024-04-03T09:59:12.500Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.787,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 10.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.27,
+      "distance_to_tower_m": 14.85
+    },
+    {
+      "frame_id": 726,
+      "timestamp_utc": "2024-04-03T09:59:12.600Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.844,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 10.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.22,
+      "distance_to_tower_m": 14.88
+    },
+    {
+      "frame_id": 727,
+      "timestamp_utc": "2024-04-03T09:59:12.700Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.799,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.22,
+      "distance_to_tower_m": 13.9
+    },
+    {
+      "frame_id": 728,
+      "timestamp_utc": "2024-04-03T09:59:12.800Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.798,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.2,
+      "distance_to_tower_m": 14.74
+    },
+    {
+      "frame_id": 729,
+      "timestamp_utc": "2024-04-03T09:59:12.900Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.768,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 6.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.17,
+      "distance_to_tower_m": 14.81
+    },
+    {
+      "frame_id": 730,
+      "timestamp_utc": "2024-04-03T09:59:13.000Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.81,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.14,
+      "distance_to_tower_m": 14.99
+    },
+    {
+      "frame_id": 731,
+      "timestamp_utc": "2024-04-03T09:59:13.100Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.802,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 10.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.08,
+      "distance_to_tower_m": 14.91
+    },
+    {
+      "frame_id": 732,
+      "timestamp_utc": "2024-04-03T09:59:13.200Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.819,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.1,
+      "distance_to_tower_m": 15.0
+    },
+    {
+      "frame_id": 733,
+      "timestamp_utc": "2024-04-03T09:59:13.300Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.771,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 10.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.04,
+      "distance_to_tower_m": 15.37
+    },
+    {
+      "frame_id": 734,
+      "timestamp_utc": "2024-04-03T09:59:13.400Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.786,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.05,
+      "distance_to_tower_m": 15.45
+    },
+    {
+      "frame_id": 735,
+      "timestamp_utc": "2024-04-03T09:59:13.500Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.883,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 8.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.09,
+      "distance_to_tower_m": 15.46
+    },
+    {
+      "frame_id": 736,
+      "timestamp_utc": "2024-04-03T09:59:13.600Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.803,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 11.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 35.04,
+      "distance_to_tower_m": 15.64
+    },
+    {
+      "frame_id": 737,
+      "timestamp_utc": "2024-04-03T09:59:13.700Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.765,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 9.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.95,
+      "distance_to_tower_m": 15.72
+    },
+    {
+      "frame_id": 738,
+      "timestamp_utc": "2024-04-03T09:59:13.800Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.81,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.92,
+      "distance_to_tower_m": 15.51
+    },
+    {
+      "frame_id": 739,
+      "timestamp_utc": "2024-04-03T09:59:13.900Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.753,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 11.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.98,
+      "distance_to_tower_m": 16.19
+    },
+    {
+      "frame_id": 740,
+      "timestamp_utc": "2024-04-03T09:59:14.000Z",
+      "mission_id": "MISSION_0023",
+      "site_id": "SITE_CHE_004",
+      "anomaly_class": "hotspot_moderate",
+      "confidence": 0.753,
+      "bbox_xywh": [
+        233,
+        89,
+        91,
+        57
+      ],
+      "gps": {
+        "lat": 13.0827118,
+        "lon": 80.2706892,
+        "alt_m": 24.56
+      },
+      "ir_temp_delta_c": 7.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 34.9,
+      "distance_to_tower_m": 16.77
+    }
+  ]
+}

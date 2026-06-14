@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0060",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_BOM_001",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "city": "Mumbai",
+    "tower_type": "lattice",
+    "height_m": 42
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_003",
+  "operator": "TowerCo India",
+  "total_frames": 1450,
+  "anomaly_frames": 122,
+  "anomaly_rate_pct": 8.41,
+  "flight_date": "2024-07-21",
+  "weather": "clear",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-79100",
+  "firmware_version": "v9.3.22"
+}

@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0021",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_DEL_002",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "city": "Delhi",
+    "tower_type": "monopole",
+    "height_m": 35
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_007",
+  "operator": "GTL Infra",
+  "total_frames": 1530,
+  "anomaly_frames": 313,
+  "anomaly_rate_pct": 20.46,
+  "flight_date": "2024-12-26",
+  "weather": "partly_cloudy",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-71968",
+  "firmware_version": "v8.8.22"
+}

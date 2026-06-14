@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0047",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_AMD_008",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "city": "Ahmedabad",
+    "tower_type": "lattice",
+    "height_m": 45
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "Sony ILX-LR1 (4K)",
+  "pilot": "PILOT_004",
+  "operator": "TowerCo India",
+  "total_frames": 840,
+  "anomaly_frames": 82,
+  "anomaly_rate_pct": 9.76,
+  "flight_date": "2024-03-14",
+  "weather": "clear",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-95408",
+  "firmware_version": "v8.3.00"
+}

@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0044",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_HYD_005",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "city": "Hyderabad",
+    "tower_type": "guyed",
+    "height_m": 60
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "Sony ILX-LR1 (4K)",
+  "pilot": "PILOT_010",
+  "operator": "TowerCo India",
+  "total_frames": 940,
+  "anomaly_frames": 353,
+  "anomaly_rate_pct": 37.55,
+  "flight_date": "2024-07-26",
+  "weather": "haze",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-46105",
+  "firmware_version": "v6.7.79"
+}

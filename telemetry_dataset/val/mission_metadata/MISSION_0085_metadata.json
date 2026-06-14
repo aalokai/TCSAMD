@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0085",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_KOL_006",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "city": "Kolkata",
+    "tower_type": "lattice",
+    "height_m": 48
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_007",
+  "operator": "TASL",
+  "total_frames": 780,
+  "anomaly_frames": 172,
+  "anomaly_rate_pct": 22.05,
+  "flight_date": "2024-11-26",
+  "weather": "overcast",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-55315",
+  "firmware_version": "v5.8.90"
+}

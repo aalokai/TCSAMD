@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0074",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_HYD_005",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "city": "Hyderabad",
+    "tower_type": "guyed",
+    "height_m": 60
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_006",
+  "operator": "GTL Infra",
+  "total_frames": 1590,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-11-22",
+  "weather": "haze",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-89428",
+  "firmware_version": "v7.1.21"
+}

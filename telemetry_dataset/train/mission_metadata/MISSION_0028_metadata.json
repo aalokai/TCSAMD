@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0028",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_JAI_009",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "city": "Jaipur",
+    "tower_type": "monopole",
+    "height_m": 33
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_004",
+  "operator": "Indus Towers",
+  "total_frames": 850,
+  "anomaly_frames": 322,
+  "anomaly_rate_pct": 37.88,
+  "flight_date": "2024-10-26",
+  "weather": "overcast",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-73034",
+  "firmware_version": "v9.0.77"
+}

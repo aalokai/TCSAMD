@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0062",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_BLR_003",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "city": "Bengaluru",
+    "tower_type": "lattice",
+    "height_m": 55
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_007",
+  "operator": "TowerCo India",
+  "total_frames": 1050,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-08-02",
+  "weather": "partly_cloudy",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-91242",
+  "firmware_version": "v6.8.13"
+}

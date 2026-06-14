@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0025",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_KOL_006",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "city": "Kolkata",
+    "tower_type": "lattice",
+    "height_m": 48
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_010",
+  "operator": "TASL",
+  "total_frames": 750,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-08-28",
+  "weather": "haze",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-91523",
+  "firmware_version": "v9.8.51"
+}

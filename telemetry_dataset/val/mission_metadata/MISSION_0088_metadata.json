@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0088",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_JAI_009",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "city": "Jaipur",
+    "tower_type": "monopole",
+    "height_m": 33
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_001",
+  "operator": "GTL Infra",
+  "total_frames": 1160,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-06-06",
+  "weather": "clear",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-16714",
+  "firmware_version": "v5.8.19"
+}

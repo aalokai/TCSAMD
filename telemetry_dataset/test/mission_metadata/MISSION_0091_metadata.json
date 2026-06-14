@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0091",
+  "split": "test",
+  "site": {
+    "site_id": "SITE_DEL_002",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "city": "Delhi",
+    "tower_type": "monopole",
+    "height_m": 35
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_010",
+  "operator": "Indus Towers",
+  "total_frames": 740,
+  "anomaly_frames": 61,
+  "anomaly_rate_pct": 8.24,
+  "flight_date": "2024-09-12",
+  "weather": "clear",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-63417",
+  "firmware_version": "v5.3.01"
+}

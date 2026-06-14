@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0093",
+  "split": "test",
+  "site": {
+    "site_id": "SITE_CHE_004",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "city": "Chennai",
+    "tower_type": "monopole",
+    "height_m": 38
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_008",
+  "operator": "TASL",
+  "total_frames": 1420,
+  "anomaly_frames": 333,
+  "anomaly_rate_pct": 23.45,
+  "flight_date": "2024-06-17",
+  "weather": "partly_cloudy",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-32462",
+  "firmware_version": "v5.1.85"
+}

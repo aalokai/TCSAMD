@@ -1,0 +1,42 @@
+# Drone-Based Cell Tower Thermal Inspection Dataset
+# Compatible with YOLOv8 / YOLOv9 / YOLOv10 / RT-DETR
+
+path: ../cell_tower_thermal
+train: train/images
+val: val/images
+test: test/images
+nc: 8
+names:
+  0: tower_structure
+  1: antenna_panel
+  2: cable_harness
+  3: hotspot_critical
+  4: hotspot_moderate
+  5: hotspot_minor
+  6: connector_joint
+  7: equipment_cabinet
+task: detect
+version: '1.0'
+image_size:
+- 640
+- 512
+splits:
+  train: 70
+  val: 20
+  test: 10
+scenarios:
+- lattice_tower_full
+- monopole_closeup
+- antenna_sector_closeup
+- equipment_cabinet_bay
+- cable_run_inspection
+severity_levels:
+  hotspot_critical: '>15 deg C above ambient — immediate action'
+  hotspot_moderate: 8-15 deg C above ambient — schedule maintenance
+  hotspot_minor: <8 deg C above ambient — monitor
+drone_sensor:
+  type: uncooled LWIR microbolometer
+  resolution: 640x512
+  spectral: 8-14 um
+  palette: iron / rainbow
+  NETD: <50mK

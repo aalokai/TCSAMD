@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0095",
+  "split": "test",
+  "site": {
+    "site_id": "SITE_KOL_006",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "city": "Kolkata",
+    "tower_type": "lattice",
+    "height_m": 48
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_004",
+  "operator": "GTL Infra",
+  "total_frames": 980,
+  "anomaly_frames": 81,
+  "anomaly_rate_pct": 8.27,
+  "flight_date": "2024-02-25",
+  "weather": "clear",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-11013",
+  "firmware_version": "v9.2.71"
+}

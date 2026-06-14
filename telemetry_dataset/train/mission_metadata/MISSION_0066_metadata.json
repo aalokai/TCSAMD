@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0066",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_PUN_007",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "city": "Pune",
+    "tower_type": "monopole",
+    "height_m": 30
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_006",
+  "operator": "TowerCo India",
+  "total_frames": 940,
+  "anomaly_frames": 203,
+  "anomaly_rate_pct": 21.6,
+  "flight_date": "2024-07-04",
+  "weather": "haze",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-96760",
+  "firmware_version": "v9.0.08"
+}

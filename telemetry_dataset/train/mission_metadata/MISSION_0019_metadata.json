@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0019",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_LKN_010",
+    "lat": 26.8467,
+    "lon": 80.9462,
+    "city": "Lucknow",
+    "tower_type": "guyed",
+    "height_m": 52
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_010",
+  "operator": "Indus Towers",
+  "total_frames": 620,
+  "anomaly_frames": 101,
+  "anomaly_rate_pct": 16.29,
+  "flight_date": "2024-04-24",
+  "weather": "haze",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-13036",
+  "firmware_version": "v9.8.20"
+}

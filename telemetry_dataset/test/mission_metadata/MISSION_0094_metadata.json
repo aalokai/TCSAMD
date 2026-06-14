@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0094",
+  "split": "test",
+  "site": {
+    "site_id": "SITE_HYD_005",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "city": "Hyderabad",
+    "tower_type": "guyed",
+    "height_m": 60
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_001",
+  "operator": "TASL",
+  "total_frames": 600,
+  "anomaly_frames": 101,
+  "anomaly_rate_pct": 16.83,
+  "flight_date": "2024-06-05",
+  "weather": "haze",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-39969",
+  "firmware_version": "v5.3.01"
+}

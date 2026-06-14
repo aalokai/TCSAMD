@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0081",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_DEL_002",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "city": "Delhi",
+    "tower_type": "monopole",
+    "height_m": 35
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_002",
+  "operator": "TASL",
+  "total_frames": 1620,
+  "anomaly_frames": 183,
+  "anomaly_rate_pct": 11.3,
+  "flight_date": "2024-03-20",
+  "weather": "partly_cloudy",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-42341",
+  "firmware_version": "v9.3.77"
+}

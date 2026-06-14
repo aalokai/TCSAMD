@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0051",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_DEL_002",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "city": "Delhi",
+    "tower_type": "monopole",
+    "height_m": 35
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "Sony ILX-LR1 (4K)",
+  "pilot": "PILOT_006",
+  "operator": "TowerCo India",
+  "total_frames": 920,
+  "anomaly_frames": 241,
+  "anomaly_rate_pct": 26.2,
+  "flight_date": "2024-01-25",
+  "weather": "haze",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-55918",
+  "firmware_version": "v8.2.19"
+}

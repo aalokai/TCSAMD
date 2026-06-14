@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0080",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_BOM_001",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "city": "Mumbai",
+    "tower_type": "lattice",
+    "height_m": 42
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_001",
+  "operator": "GTL Infra",
+  "total_frames": 850,
+  "anomaly_frames": 102,
+  "anomaly_rate_pct": 12.0,
+  "flight_date": "2024-11-06",
+  "weather": "clear",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-52727",
+  "firmware_version": "v7.6.98"
+}

@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0037",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_AMD_008",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "city": "Ahmedabad",
+    "tower_type": "lattice",
+    "height_m": 45
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_009",
+  "operator": "Indus Towers",
+  "total_frames": 790,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-07-07",
+  "weather": "partly_cloudy",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-83735",
+  "firmware_version": "v8.9.14"
+}

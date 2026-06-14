@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0056",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_PUN_007",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "city": "Pune",
+    "tower_type": "monopole",
+    "height_m": 30
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_004",
+  "operator": "TASL",
+  "total_frames": 780,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-05-09",
+  "weather": "partly_cloudy",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-98197",
+  "firmware_version": "v9.2.66"
+}

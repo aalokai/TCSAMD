@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0057",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_AMD_008",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "city": "Ahmedabad",
+    "tower_type": "lattice",
+    "height_m": 45
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_010",
+  "operator": "GTL Infra",
+  "total_frames": 810,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-11-05",
+  "weather": "partly_cloudy",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-34106",
+  "firmware_version": "v6.0.43"
+}

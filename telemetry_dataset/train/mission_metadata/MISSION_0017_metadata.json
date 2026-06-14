@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0017",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_AMD_008",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "city": "Ahmedabad",
+    "tower_type": "lattice",
+    "height_m": 45
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_006",
+  "operator": "GTL Infra",
+  "total_frames": 800,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-10-03",
+  "weather": "overcast",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-71447",
+  "firmware_version": "v9.2.56"
+}

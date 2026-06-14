@@ -1,0 +1,6056 @@
+{
+  "mission_id": "MISSION_0087",
+  "site_id": "SITE_AMD_008",
+  "total_anomaly_frames": 263,
+  "annotations": [
+    {
+      "frame_id": 320,
+      "timestamp_utc": "2024-04-14T13:42:32.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.627,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.79
+    },
+    {
+      "frame_id": 321,
+      "timestamp_utc": "2024-04-14T13:42:32.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.64,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.85
+    },
+    {
+      "frame_id": 322,
+      "timestamp_utc": "2024-04-14T13:42:32.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.639,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.73
+    },
+    {
+      "frame_id": 323,
+      "timestamp_utc": "2024-04-14T13:42:32.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.676,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.8,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.23
+    },
+    {
+      "frame_id": 324,
+      "timestamp_utc": "2024-04-14T13:42:32.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.629,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.9
+    },
+    {
+      "frame_id": 325,
+      "timestamp_utc": "2024-04-14T13:42:32.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.648,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 3.8,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.65
+    },
+    {
+      "frame_id": 326,
+      "timestamp_utc": "2024-04-14T13:42:32.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.679,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.63
+    },
+    {
+      "frame_id": 327,
+      "timestamp_utc": "2024-04-14T13:42:32.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.587,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.5
+    },
+    {
+      "frame_id": 328,
+      "timestamp_utc": "2024-04-14T13:42:32.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.669,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.98
+    },
+    {
+      "frame_id": 329,
+      "timestamp_utc": "2024-04-14T13:42:32.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.598,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.41
+    },
+    {
+      "frame_id": 330,
+      "timestamp_utc": "2024-04-14T13:42:33.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.681,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.75
+    },
+    {
+      "frame_id": 331,
+      "timestamp_utc": "2024-04-14T13:42:33.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.65,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.61
+    },
+    {
+      "frame_id": 332,
+      "timestamp_utc": "2024-04-14T13:42:33.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.705,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.05
+    },
+    {
+      "frame_id": 333,
+      "timestamp_utc": "2024-04-14T13:42:33.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.614,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.26
+    },
+    {
+      "frame_id": 334,
+      "timestamp_utc": "2024-04-14T13:42:33.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.665,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.14
+    },
+    {
+      "frame_id": 335,
+      "timestamp_utc": "2024-04-14T13:42:33.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.69,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.66
+    },
+    {
+      "frame_id": 336,
+      "timestamp_utc": "2024-04-14T13:42:33.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.651,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.43
+    },
+    {
+      "frame_id": 337,
+      "timestamp_utc": "2024-04-14T13:42:33.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.689,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.8,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.06
+    },
+    {
+      "frame_id": 338,
+      "timestamp_utc": "2024-04-14T13:42:33.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.678,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.3
+    },
+    {
+      "frame_id": 339,
+      "timestamp_utc": "2024-04-14T13:42:33.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.637,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.06
+    },
+    {
+      "frame_id": 340,
+      "timestamp_utc": "2024-04-14T13:42:34.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.613,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 2.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.35
+    },
+    {
+      "frame_id": 341,
+      "timestamp_utc": "2024-04-14T13:42:34.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.652,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.8,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.46
+    },
+    {
+      "frame_id": 342,
+      "timestamp_utc": "2024-04-14T13:42:34.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.672,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.08
+    },
+    {
+      "frame_id": 343,
+      "timestamp_utc": "2024-04-14T13:42:34.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.646,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.65
+    },
+    {
+      "frame_id": 344,
+      "timestamp_utc": "2024-04-14T13:42:34.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.738,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.68
+    },
+    {
+      "frame_id": 345,
+      "timestamp_utc": "2024-04-14T13:42:34.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.593,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.75
+    },
+    {
+      "frame_id": 346,
+      "timestamp_utc": "2024-04-14T13:42:34.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.691,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.98
+    },
+    {
+      "frame_id": 347,
+      "timestamp_utc": "2024-04-14T13:42:34.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.641,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.8
+    },
+    {
+      "frame_id": 348,
+      "timestamp_utc": "2024-04-14T13:42:34.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.674,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.12
+    },
+    {
+      "frame_id": 349,
+      "timestamp_utc": "2024-04-14T13:42:34.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.667,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.8,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.07
+    },
+    {
+      "frame_id": 350,
+      "timestamp_utc": "2024-04-14T13:42:35.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.619,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.4,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.59
+    },
+    {
+      "frame_id": 351,
+      "timestamp_utc": "2024-04-14T13:42:35.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.639,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 3.5,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.12
+    },
+    {
+      "frame_id": 352,
+      "timestamp_utc": "2024-04-14T13:42:35.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.675,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 10.4,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.37
+    },
+    {
+      "frame_id": 353,
+      "timestamp_utc": "2024-04-14T13:42:35.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.656,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.4,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.31
+    },
+    {
+      "frame_id": 354,
+      "timestamp_utc": "2024-04-14T13:42:35.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.642,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.93
+    },
+    {
+      "frame_id": 355,
+      "timestamp_utc": "2024-04-14T13:42:35.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.619,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.08
+    },
+    {
+      "frame_id": 356,
+      "timestamp_utc": "2024-04-14T13:42:35.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.648,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 4.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.53
+    },
+    {
+      "frame_id": 357,
+      "timestamp_utc": "2024-04-14T13:42:35.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.67,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 4.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.27
+    },
+    {
+      "frame_id": 358,
+      "timestamp_utc": "2024-04-14T13:42:35.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.653,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 4.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.23
+    },
+    {
+      "frame_id": 359,
+      "timestamp_utc": "2024-04-14T13:42:35.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.631,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.0,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.31
+    },
+    {
+      "frame_id": 360,
+      "timestamp_utc": "2024-04-14T13:42:36.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.669,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.79
+    },
+    {
+      "frame_id": 361,
+      "timestamp_utc": "2024-04-14T13:42:36.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.644,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.22
+    },
+    {
+      "frame_id": 362,
+      "timestamp_utc": "2024-04-14T13:42:36.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.635,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.15
+    },
+    {
+      "frame_id": 363,
+      "timestamp_utc": "2024-04-14T13:42:36.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.687,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.68
+    },
+    {
+      "frame_id": 364,
+      "timestamp_utc": "2024-04-14T13:42:36.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.598,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.86
+    },
+    {
+      "frame_id": 365,
+      "timestamp_utc": "2024-04-14T13:42:36.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.598,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 4.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.41
+    },
+    {
+      "frame_id": 366,
+      "timestamp_utc": "2024-04-14T13:42:36.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.675,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.49
+    },
+    {
+      "frame_id": 367,
+      "timestamp_utc": "2024-04-14T13:42:36.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.66,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.38
+    },
+    {
+      "frame_id": 368,
+      "timestamp_utc": "2024-04-14T13:42:36.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.631,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.95
+    },
+    {
+      "frame_id": 369,
+      "timestamp_utc": "2024-04-14T13:42:36.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.642,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.86
+    },
+    {
+      "frame_id": 370,
+      "timestamp_utc": "2024-04-14T13:42:37.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.68,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.88
+    },
+    {
+      "frame_id": 371,
+      "timestamp_utc": "2024-04-14T13:42:37.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.642,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.4,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.58
+    },
+    {
+      "frame_id": 372,
+      "timestamp_utc": "2024-04-14T13:42:37.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.709,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 11.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.72
+    },
+    {
+      "frame_id": 373,
+      "timestamp_utc": "2024-04-14T13:42:37.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.71,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 9.84
+    },
+    {
+      "frame_id": 374,
+      "timestamp_utc": "2024-04-14T13:42:37.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.636,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.4,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.31
+    },
+    {
+      "frame_id": 375,
+      "timestamp_utc": "2024-04-14T13:42:37.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.643,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.64
+    },
+    {
+      "frame_id": 376,
+      "timestamp_utc": "2024-04-14T13:42:37.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.624,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.7
+    },
+    {
+      "frame_id": 377,
+      "timestamp_utc": "2024-04-14T13:42:37.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.626,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.5,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.65
+    },
+    {
+      "frame_id": 378,
+      "timestamp_utc": "2024-04-14T13:42:37.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.654,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 10.74
+    },
+    {
+      "frame_id": 379,
+      "timestamp_utc": "2024-04-14T13:42:37.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.654,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.05
+    },
+    {
+      "frame_id": 380,
+      "timestamp_utc": "2024-04-14T13:42:38.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.658,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.74
+    },
+    {
+      "frame_id": 381,
+      "timestamp_utc": "2024-04-14T13:42:38.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.646,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.49
+    },
+    {
+      "frame_id": 382,
+      "timestamp_utc": "2024-04-14T13:42:38.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.624,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.1
+    },
+    {
+      "frame_id": 383,
+      "timestamp_utc": "2024-04-14T13:42:38.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.621,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.13
+    },
+    {
+      "frame_id": 384,
+      "timestamp_utc": "2024-04-14T13:42:38.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.634,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.34
+    },
+    {
+      "frame_id": 385,
+      "timestamp_utc": "2024-04-14T13:42:38.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.704,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.0,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.75
+    },
+    {
+      "frame_id": 386,
+      "timestamp_utc": "2024-04-14T13:42:38.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.707,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.86
+    },
+    {
+      "frame_id": 387,
+      "timestamp_utc": "2024-04-14T13:42:38.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.621,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.76
+    },
+    {
+      "frame_id": 388,
+      "timestamp_utc": "2024-04-14T13:42:38.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.726,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 10.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.24
+    },
+    {
+      "frame_id": 389,
+      "timestamp_utc": "2024-04-14T13:42:38.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.686,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.66
+    },
+    {
+      "frame_id": 390,
+      "timestamp_utc": "2024-04-14T13:42:39.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.635,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.4,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.87
+    },
+    {
+      "frame_id": 391,
+      "timestamp_utc": "2024-04-14T13:42:39.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.607,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.8,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.06
+    },
+    {
+      "frame_id": 392,
+      "timestamp_utc": "2024-04-14T13:42:39.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.667,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.74
+    },
+    {
+      "frame_id": 393,
+      "timestamp_utc": "2024-04-14T13:42:39.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.628,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.6
+    },
+    {
+      "frame_id": 394,
+      "timestamp_utc": "2024-04-14T13:42:39.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.635,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.6
+    },
+    {
+      "frame_id": 395,
+      "timestamp_utc": "2024-04-14T13:42:39.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.667,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.94
+    },
+    {
+      "frame_id": 396,
+      "timestamp_utc": "2024-04-14T13:42:39.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.623,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.55
+    },
+    {
+      "frame_id": 397,
+      "timestamp_utc": "2024-04-14T13:42:39.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.651,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.24
+    },
+    {
+      "frame_id": 398,
+      "timestamp_utc": "2024-04-14T13:42:39.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.677,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.35
+    },
+    {
+      "frame_id": 399,
+      "timestamp_utc": "2024-04-14T13:42:39.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.645,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.15
+    },
+    {
+      "frame_id": 400,
+      "timestamp_utc": "2024-04-14T13:42:40.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.625,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 4.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.84
+    },
+    {
+      "frame_id": 401,
+      "timestamp_utc": "2024-04-14T13:42:40.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.667,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 10.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.08
+    },
+    {
+      "frame_id": 402,
+      "timestamp_utc": "2024-04-14T13:42:40.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.649,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.88
+    },
+    {
+      "frame_id": 403,
+      "timestamp_utc": "2024-04-14T13:42:40.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.679,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.75
+    },
+    {
+      "frame_id": 404,
+      "timestamp_utc": "2024-04-14T13:42:40.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.733,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.0,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.37
+    },
+    {
+      "frame_id": 405,
+      "timestamp_utc": "2024-04-14T13:42:40.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.676,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 3.0,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.68
+    },
+    {
+      "frame_id": 406,
+      "timestamp_utc": "2024-04-14T13:42:40.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.645,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 3.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.75
+    },
+    {
+      "frame_id": 407,
+      "timestamp_utc": "2024-04-14T13:42:40.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.626,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.64
+    },
+    {
+      "frame_id": 408,
+      "timestamp_utc": "2024-04-14T13:42:40.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.635,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.5,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.89
+    },
+    {
+      "frame_id": 409,
+      "timestamp_utc": "2024-04-14T13:42:40.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.687,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.69
+    },
+    {
+      "frame_id": 410,
+      "timestamp_utc": "2024-04-14T13:42:41.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.667,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.56
+    },
+    {
+      "frame_id": 411,
+      "timestamp_utc": "2024-04-14T13:42:41.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.625,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.6
+    },
+    {
+      "frame_id": 412,
+      "timestamp_utc": "2024-04-14T13:42:41.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.641,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.71
+    },
+    {
+      "frame_id": 413,
+      "timestamp_utc": "2024-04-14T13:42:41.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.644,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.4,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.02
+    },
+    {
+      "frame_id": 414,
+      "timestamp_utc": "2024-04-14T13:42:41.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.607,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 10.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.12
+    },
+    {
+      "frame_id": 415,
+      "timestamp_utc": "2024-04-14T13:42:41.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.661,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.2
+    },
+    {
+      "frame_id": 416,
+      "timestamp_utc": "2024-04-14T13:42:41.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.66,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 9.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.32
+    },
+    {
+      "frame_id": 417,
+      "timestamp_utc": "2024-04-14T13:42:41.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.693,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.23
+    },
+    {
+      "frame_id": 418,
+      "timestamp_utc": "2024-04-14T13:42:41.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.716,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 4.9,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.41
+    },
+    {
+      "frame_id": 419,
+      "timestamp_utc": "2024-04-14T13:42:41.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.669,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.62
+    },
+    {
+      "frame_id": 420,
+      "timestamp_utc": "2024-04-14T13:42:42.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.64,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.16
+    },
+    {
+      "frame_id": 421,
+      "timestamp_utc": "2024-04-14T13:42:42.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.65,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.51
+    },
+    {
+      "frame_id": 422,
+      "timestamp_utc": "2024-04-14T13:42:42.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.624,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 7.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.15
+    },
+    {
+      "frame_id": 423,
+      "timestamp_utc": "2024-04-14T13:42:42.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.637,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.11
+    },
+    {
+      "frame_id": 424,
+      "timestamp_utc": "2024-04-14T13:42:42.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.627,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.0,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.62
+    },
+    {
+      "frame_id": 425,
+      "timestamp_utc": "2024-04-14T13:42:42.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.681,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.1,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.21
+    },
+    {
+      "frame_id": 426,
+      "timestamp_utc": "2024-04-14T13:42:42.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.648,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.04
+    },
+    {
+      "frame_id": 427,
+      "timestamp_utc": "2024-04-14T13:42:42.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.623,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.7,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.23
+    },
+    {
+      "frame_id": 428,
+      "timestamp_utc": "2024-04-14T13:42:42.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.629,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 5.6,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.17
+    },
+    {
+      "frame_id": 429,
+      "timestamp_utc": "2024-04-14T13:42:42.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.622,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 8.0,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 12.35
+    },
+    {
+      "frame_id": 430,
+      "timestamp_utc": "2024-04-14T13:42:43.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "corrosion",
+      "confidence": 0.667,
+      "bbox_xywh": [
+        192,
+        130,
+        57,
+        57
+      ],
+      "gps": {
+        "lat": 23.0224951,
+        "lon": 72.5714114,
+        "alt_m": 14.59
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "climb_tower",
+      "drone_alt_m": 42.75,
+      "distance_to_tower_m": 11.69
+    },
+    {
+      "frame_id": 750,
+      "timestamp_utc": "2024-04-14T13:43:15.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.782,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.86,
+      "distance_to_tower_m": 2.47
+    },
+    {
+      "frame_id": 751,
+      "timestamp_utc": "2024-04-14T13:43:15.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.812,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.85,
+      "distance_to_tower_m": 3.06
+    },
+    {
+      "frame_id": 752,
+      "timestamp_utc": "2024-04-14T13:43:15.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.783,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 27.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.82,
+      "distance_to_tower_m": 3.13
+    },
+    {
+      "frame_id": 753,
+      "timestamp_utc": "2024-04-14T13:43:15.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.782,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.93,
+      "distance_to_tower_m": 3.14
+    },
+    {
+      "frame_id": 754,
+      "timestamp_utc": "2024-04-14T13:43:15.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.769,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 26.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.93,
+      "distance_to_tower_m": 3.54
+    },
+    {
+      "frame_id": 755,
+      "timestamp_utc": "2024-04-14T13:43:15.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.814,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.96,
+      "distance_to_tower_m": 3.89
+    },
+    {
+      "frame_id": 756,
+      "timestamp_utc": "2024-04-14T13:43:15.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.774,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.93,
+      "distance_to_tower_m": 3.7
+    },
+    {
+      "frame_id": 757,
+      "timestamp_utc": "2024-04-14T13:43:15.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.803,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.96,
+      "distance_to_tower_m": 3.73
+    },
+    {
+      "frame_id": 758,
+      "timestamp_utc": "2024-04-14T13:43:15.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.797,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.99,
+      "distance_to_tower_m": 3.92
+    },
+    {
+      "frame_id": 759,
+      "timestamp_utc": "2024-04-14T13:43:15.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.81,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.05,
+      "distance_to_tower_m": 3.94
+    },
+    {
+      "frame_id": 760,
+      "timestamp_utc": "2024-04-14T13:43:16.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.786,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.6,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.08,
+      "distance_to_tower_m": 3.7
+    },
+    {
+      "frame_id": 761,
+      "timestamp_utc": "2024-04-14T13:43:16.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.772,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.13,
+      "distance_to_tower_m": 3.78
+    },
+    {
+      "frame_id": 762,
+      "timestamp_utc": "2024-04-14T13:43:16.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.811,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.11,
+      "distance_to_tower_m": 3.67
+    },
+    {
+      "frame_id": 763,
+      "timestamp_utc": "2024-04-14T13:43:16.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.75,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.09,
+      "distance_to_tower_m": 3.79
+    },
+    {
+      "frame_id": 764,
+      "timestamp_utc": "2024-04-14T13:43:16.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.835,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.6,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.08,
+      "distance_to_tower_m": 4.23
+    },
+    {
+      "frame_id": 765,
+      "timestamp_utc": "2024-04-14T13:43:16.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.834,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.0,
+      "distance_to_tower_m": 4.57
+    },
+    {
+      "frame_id": 766,
+      "timestamp_utc": "2024-04-14T13:43:16.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.803,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.99,
+      "distance_to_tower_m": 4.72
+    },
+    {
+      "frame_id": 767,
+      "timestamp_utc": "2024-04-14T13:43:16.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.724,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.92,
+      "distance_to_tower_m": 4.94
+    },
+    {
+      "frame_id": 768,
+      "timestamp_utc": "2024-04-14T13:43:16.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.756,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.6,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.03,
+      "distance_to_tower_m": 4.48
+    },
+    {
+      "frame_id": 769,
+      "timestamp_utc": "2024-04-14T13:43:16.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.821,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.1,
+      "distance_to_tower_m": 4.58
+    },
+    {
+      "frame_id": 770,
+      "timestamp_utc": "2024-04-14T13:43:17.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.795,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.05,
+      "distance_to_tower_m": 4.1
+    },
+    {
+      "frame_id": 771,
+      "timestamp_utc": "2024-04-14T13:43:17.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.828,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.09,
+      "distance_to_tower_m": 4.39
+    },
+    {
+      "frame_id": 772,
+      "timestamp_utc": "2024-04-14T13:43:17.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.769,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.06,
+      "distance_to_tower_m": 4.46
+    },
+    {
+      "frame_id": 773,
+      "timestamp_utc": "2024-04-14T13:43:17.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.792,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.07,
+      "distance_to_tower_m": 4.3
+    },
+    {
+      "frame_id": 774,
+      "timestamp_utc": "2024-04-14T13:43:17.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.737,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.05,
+      "distance_to_tower_m": 3.92
+    },
+    {
+      "frame_id": 775,
+      "timestamp_utc": "2024-04-14T13:43:17.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.778,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.98,
+      "distance_to_tower_m": 3.41
+    },
+    {
+      "frame_id": 776,
+      "timestamp_utc": "2024-04-14T13:43:17.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.822,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.98,
+      "distance_to_tower_m": 3.46
+    },
+    {
+      "frame_id": 777,
+      "timestamp_utc": "2024-04-14T13:43:17.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.815,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.94,
+      "distance_to_tower_m": 3.33
+    },
+    {
+      "frame_id": 778,
+      "timestamp_utc": "2024-04-14T13:43:17.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.782,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.94,
+      "distance_to_tower_m": 2.51
+    },
+    {
+      "frame_id": 779,
+      "timestamp_utc": "2024-04-14T13:43:17.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.765,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 42.96,
+      "distance_to_tower_m": 2.39
+    },
+    {
+      "frame_id": 780,
+      "timestamp_utc": "2024-04-14T13:43:18.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.724,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.06,
+      "distance_to_tower_m": 2.43
+    },
+    {
+      "frame_id": 781,
+      "timestamp_utc": "2024-04-14T13:43:18.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.84,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.07,
+      "distance_to_tower_m": 2.18
+    },
+    {
+      "frame_id": 782,
+      "timestamp_utc": "2024-04-14T13:43:18.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.788,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.15,
+      "distance_to_tower_m": 2.03
+    },
+    {
+      "frame_id": 783,
+      "timestamp_utc": "2024-04-14T13:43:18.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.755,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.2,
+      "distance_to_tower_m": 2.54
+    },
+    {
+      "frame_id": 784,
+      "timestamp_utc": "2024-04-14T13:43:18.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.814,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 27.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.24,
+      "distance_to_tower_m": 3.06
+    },
+    {
+      "frame_id": 785,
+      "timestamp_utc": "2024-04-14T13:43:18.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.752,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.15,
+      "distance_to_tower_m": 3.1
+    },
+    {
+      "frame_id": 786,
+      "timestamp_utc": "2024-04-14T13:43:18.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.768,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.18,
+      "distance_to_tower_m": 3.17
+    },
+    {
+      "frame_id": 787,
+      "timestamp_utc": "2024-04-14T13:43:18.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.777,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.23,
+      "distance_to_tower_m": 3.25
+    },
+    {
+      "frame_id": 788,
+      "timestamp_utc": "2024-04-14T13:43:18.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.795,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.24,
+      "distance_to_tower_m": 3.02
+    },
+    {
+      "frame_id": 789,
+      "timestamp_utc": "2024-04-14T13:43:18.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.831,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.18,
+      "distance_to_tower_m": 2.79
+    },
+    {
+      "frame_id": 790,
+      "timestamp_utc": "2024-04-14T13:43:19.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.802,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.22,
+      "distance_to_tower_m": 2.95
+    },
+    {
+      "frame_id": 791,
+      "timestamp_utc": "2024-04-14T13:43:19.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.75,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.18,
+      "distance_to_tower_m": 3.11
+    },
+    {
+      "frame_id": 792,
+      "timestamp_utc": "2024-04-14T13:43:19.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.789,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.19,
+      "distance_to_tower_m": 3.68
+    },
+    {
+      "frame_id": 793,
+      "timestamp_utc": "2024-04-14T13:43:19.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.778,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 26.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.25,
+      "distance_to_tower_m": 3.48
+    },
+    {
+      "frame_id": 794,
+      "timestamp_utc": "2024-04-14T13:43:19.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.782,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.34,
+      "distance_to_tower_m": 3.43
+    },
+    {
+      "frame_id": 795,
+      "timestamp_utc": "2024-04-14T13:43:19.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.782,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.41,
+      "distance_to_tower_m": 3.22
+    },
+    {
+      "frame_id": 796,
+      "timestamp_utc": "2024-04-14T13:43:19.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.793,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 20.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.41,
+      "distance_to_tower_m": 2.93
+    },
+    {
+      "frame_id": 797,
+      "timestamp_utc": "2024-04-14T13:43:19.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.771,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 43.45,
+      "distance_to_tower_m": 3.11
+    },
+    {
+      "frame_id": 798,
+      "timestamp_utc": "2024-04-14T13:43:19.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.734,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.5,
+      "distance_to_tower_m": 3.45
+    },
+    {
+      "frame_id": 799,
+      "timestamp_utc": "2024-04-14T13:43:19.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.809,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 26.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.44,
+      "distance_to_tower_m": 3.22
+    },
+    {
+      "frame_id": 800,
+      "timestamp_utc": "2024-04-14T13:43:20.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.813,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 27.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.54,
+      "distance_to_tower_m": 2.84
+    },
+    {
+      "frame_id": 801,
+      "timestamp_utc": "2024-04-14T13:43:20.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.782,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.56,
+      "distance_to_tower_m": 2.52
+    },
+    {
+      "frame_id": 802,
+      "timestamp_utc": "2024-04-14T13:43:20.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.744,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 20.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.56,
+      "distance_to_tower_m": 2.44
+    },
+    {
+      "frame_id": 803,
+      "timestamp_utc": "2024-04-14T13:43:20.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.797,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.58,
+      "distance_to_tower_m": 2.57
+    },
+    {
+      "frame_id": 804,
+      "timestamp_utc": "2024-04-14T13:43:20.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.794,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.56,
+      "distance_to_tower_m": 2.18
+    },
+    {
+      "frame_id": 805,
+      "timestamp_utc": "2024-04-14T13:43:20.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.787,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.57,
+      "distance_to_tower_m": 2.04
+    },
+    {
+      "frame_id": 806,
+      "timestamp_utc": "2024-04-14T13:43:20.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.855,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.65,
+      "distance_to_tower_m": 2.56
+    },
+    {
+      "frame_id": 807,
+      "timestamp_utc": "2024-04-14T13:43:20.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.784,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.68,
+      "distance_to_tower_m": 2.85
+    },
+    {
+      "frame_id": 808,
+      "timestamp_utc": "2024-04-14T13:43:20.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.796,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.65,
+      "distance_to_tower_m": 3.23
+    },
+    {
+      "frame_id": 809,
+      "timestamp_utc": "2024-04-14T13:43:20.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.734,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.68,
+      "distance_to_tower_m": 3.06
+    },
+    {
+      "frame_id": 810,
+      "timestamp_utc": "2024-04-14T13:43:21.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.751,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.76,
+      "distance_to_tower_m": 3.38
+    },
+    {
+      "frame_id": 811,
+      "timestamp_utc": "2024-04-14T13:43:21.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.816,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.77,
+      "distance_to_tower_m": 3.66
+    },
+    {
+      "frame_id": 812,
+      "timestamp_utc": "2024-04-14T13:43:21.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.788,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.83,
+      "distance_to_tower_m": 3.56
+    },
+    {
+      "frame_id": 813,
+      "timestamp_utc": "2024-04-14T13:43:21.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.819,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 27.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.9,
+      "distance_to_tower_m": 3.58
+    },
+    {
+      "frame_id": 814,
+      "timestamp_utc": "2024-04-14T13:43:21.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.732,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.99,
+      "distance_to_tower_m": 3.16
+    },
+    {
+      "frame_id": 815,
+      "timestamp_utc": "2024-04-14T13:43:21.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.821,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.93,
+      "distance_to_tower_m": 3.56
+    },
+    {
+      "frame_id": 816,
+      "timestamp_utc": "2024-04-14T13:43:21.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.775,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 19.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.94,
+      "distance_to_tower_m": 4.02
+    },
+    {
+      "frame_id": 817,
+      "timestamp_utc": "2024-04-14T13:43:21.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.757,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.92,
+      "distance_to_tower_m": 4.14
+    },
+    {
+      "frame_id": 818,
+      "timestamp_utc": "2024-04-14T13:43:21.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.783,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.98,
+      "distance_to_tower_m": 4.25
+    },
+    {
+      "frame_id": 819,
+      "timestamp_utc": "2024-04-14T13:43:21.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.778,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.04,
+      "distance_to_tower_m": 3.99
+    },
+    {
+      "frame_id": 820,
+      "timestamp_utc": "2024-04-14T13:43:22.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.78,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.02,
+      "distance_to_tower_m": 4.24
+    },
+    {
+      "frame_id": 821,
+      "timestamp_utc": "2024-04-14T13:43:22.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.793,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.02,
+      "distance_to_tower_m": 4.28
+    },
+    {
+      "frame_id": 822,
+      "timestamp_utc": "2024-04-14T13:43:22.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.837,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.94,
+      "distance_to_tower_m": 5.07
+    },
+    {
+      "frame_id": 823,
+      "timestamp_utc": "2024-04-14T13:43:22.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.84,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 26.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.97,
+      "distance_to_tower_m": 4.83
+    },
+    {
+      "frame_id": 824,
+      "timestamp_utc": "2024-04-14T13:43:22.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.793,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.04,
+      "distance_to_tower_m": 4.31
+    },
+    {
+      "frame_id": 825,
+      "timestamp_utc": "2024-04-14T13:43:22.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.818,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 27.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.04,
+      "distance_to_tower_m": 4.21
+    },
+    {
+      "frame_id": 826,
+      "timestamp_utc": "2024-04-14T13:43:22.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.824,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.08,
+      "distance_to_tower_m": 4.41
+    },
+    {
+      "frame_id": 827,
+      "timestamp_utc": "2024-04-14T13:43:22.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.768,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.05,
+      "distance_to_tower_m": 4.84
+    },
+    {
+      "frame_id": 828,
+      "timestamp_utc": "2024-04-14T13:43:22.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.817,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.03,
+      "distance_to_tower_m": 4.59
+    },
+    {
+      "frame_id": 829,
+      "timestamp_utc": "2024-04-14T13:43:22.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.83,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.02,
+      "distance_to_tower_m": 4.7
+    },
+    {
+      "frame_id": 830,
+      "timestamp_utc": "2024-04-14T13:43:23.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.797,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.97,
+      "distance_to_tower_m": 4.47
+    },
+    {
+      "frame_id": 831,
+      "timestamp_utc": "2024-04-14T13:43:23.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.817,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.88,
+      "distance_to_tower_m": 5.0
+    },
+    {
+      "frame_id": 832,
+      "timestamp_utc": "2024-04-14T13:43:23.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.841,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.9,
+      "distance_to_tower_m": 5.05
+    },
+    {
+      "frame_id": 833,
+      "timestamp_utc": "2024-04-14T13:43:23.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.803,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.85,
+      "distance_to_tower_m": 4.81
+    },
+    {
+      "frame_id": 834,
+      "timestamp_utc": "2024-04-14T13:43:23.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.805,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.9,
+      "distance_to_tower_m": 4.57
+    },
+    {
+      "frame_id": 835,
+      "timestamp_utc": "2024-04-14T13:43:23.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.816,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 26.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.83,
+      "distance_to_tower_m": 4.27
+    },
+    {
+      "frame_id": 836,
+      "timestamp_utc": "2024-04-14T13:43:23.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.844,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.93,
+      "distance_to_tower_m": 3.88
+    },
+    {
+      "frame_id": 837,
+      "timestamp_utc": "2024-04-14T13:43:23.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.819,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.87,
+      "distance_to_tower_m": 3.68
+    },
+    {
+      "frame_id": 838,
+      "timestamp_utc": "2024-04-14T13:43:23.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.844,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.91,
+      "distance_to_tower_m": 3.63
+    },
+    {
+      "frame_id": 839,
+      "timestamp_utc": "2024-04-14T13:43:23.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.825,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.97,
+      "distance_to_tower_m": 3.68
+    },
+    {
+      "frame_id": 840,
+      "timestamp_utc": "2024-04-14T13:43:24.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.769,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.93,
+      "distance_to_tower_m": 3.64
+    },
+    {
+      "frame_id": 841,
+      "timestamp_utc": "2024-04-14T13:43:24.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.842,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.04,
+      "distance_to_tower_m": 3.84
+    },
+    {
+      "frame_id": 842,
+      "timestamp_utc": "2024-04-14T13:43:24.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.768,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.11,
+      "distance_to_tower_m": 3.85
+    },
+    {
+      "frame_id": 843,
+      "timestamp_utc": "2024-04-14T13:43:24.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.759,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.1,
+      "distance_to_tower_m": 3.83
+    },
+    {
+      "frame_id": 844,
+      "timestamp_utc": "2024-04-14T13:43:24.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.732,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.13,
+      "distance_to_tower_m": 3.54
+    },
+    {
+      "frame_id": 845,
+      "timestamp_utc": "2024-04-14T13:43:24.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.803,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.17,
+      "distance_to_tower_m": 3.68
+    },
+    {
+      "frame_id": 846,
+      "timestamp_utc": "2024-04-14T13:43:24.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.908,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 29.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.14,
+      "distance_to_tower_m": 3.55
+    },
+    {
+      "frame_id": 847,
+      "timestamp_utc": "2024-04-14T13:43:24.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.83,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.1,
+      "distance_to_tower_m": 2.81
+    },
+    {
+      "frame_id": 848,
+      "timestamp_utc": "2024-04-14T13:43:24.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.794,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.08,
+      "distance_to_tower_m": 2.31
+    },
+    {
+      "frame_id": 849,
+      "timestamp_utc": "2024-04-14T13:43:24.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.767,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.08,
+      "distance_to_tower_m": 3.1
+    },
+    {
+      "frame_id": 850,
+      "timestamp_utc": "2024-04-14T13:43:25.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.763,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.11,
+      "distance_to_tower_m": 3.2
+    },
+    {
+      "frame_id": 851,
+      "timestamp_utc": "2024-04-14T13:43:25.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.802,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 20.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.13,
+      "distance_to_tower_m": 3.54
+    },
+    {
+      "frame_id": 852,
+      "timestamp_utc": "2024-04-14T13:43:25.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.813,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.24,
+      "distance_to_tower_m": 3.64
+    },
+    {
+      "frame_id": 853,
+      "timestamp_utc": "2024-04-14T13:43:25.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.748,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.17,
+      "distance_to_tower_m": 3.21
+    },
+    {
+      "frame_id": 854,
+      "timestamp_utc": "2024-04-14T13:43:25.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.797,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.15,
+      "distance_to_tower_m": 3.5
+    },
+    {
+      "frame_id": 855,
+      "timestamp_utc": "2024-04-14T13:43:25.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.772,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.3,
+      "distance_to_tower_m": 3.53
+    },
+    {
+      "frame_id": 856,
+      "timestamp_utc": "2024-04-14T13:43:25.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.834,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.34,
+      "distance_to_tower_m": 3.36
+    },
+    {
+      "frame_id": 857,
+      "timestamp_utc": "2024-04-14T13:43:25.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.807,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.29,
+      "distance_to_tower_m": 3.58
+    },
+    {
+      "frame_id": 858,
+      "timestamp_utc": "2024-04-14T13:43:25.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.813,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.25,
+      "distance_to_tower_m": 3.39
+    },
+    {
+      "frame_id": 859,
+      "timestamp_utc": "2024-04-14T13:43:25.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.861,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.21,
+      "distance_to_tower_m": 3.44
+    },
+    {
+      "frame_id": 860,
+      "timestamp_utc": "2024-04-14T13:43:26.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.775,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.2,
+      "distance_to_tower_m": 3.67
+    },
+    {
+      "frame_id": 861,
+      "timestamp_utc": "2024-04-14T13:43:26.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.767,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.25,
+      "distance_to_tower_m": 3.91
+    },
+    {
+      "frame_id": 862,
+      "timestamp_utc": "2024-04-14T13:43:26.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.783,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.31,
+      "distance_to_tower_m": 4.48
+    },
+    {
+      "frame_id": 863,
+      "timestamp_utc": "2024-04-14T13:43:26.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.808,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 21.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.32,
+      "distance_to_tower_m": 5.1
+    },
+    {
+      "frame_id": 864,
+      "timestamp_utc": "2024-04-14T13:43:26.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.756,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 26.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.38,
+      "distance_to_tower_m": 5.8
+    },
+    {
+      "frame_id": 865,
+      "timestamp_utc": "2024-04-14T13:43:26.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.776,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.45,
+      "distance_to_tower_m": 6.02
+    },
+    {
+      "frame_id": 866,
+      "timestamp_utc": "2024-04-14T13:43:26.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.826,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 25.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.49,
+      "distance_to_tower_m": 5.64
+    },
+    {
+      "frame_id": 867,
+      "timestamp_utc": "2024-04-14T13:43:26.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.819,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 22.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.5,
+      "distance_to_tower_m": 5.96
+    },
+    {
+      "frame_id": 868,
+      "timestamp_utc": "2024-04-14T13:43:26.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.762,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.46,
+      "distance_to_tower_m": 5.49
+    },
+    {
+      "frame_id": 869,
+      "timestamp_utc": "2024-04-14T13:43:26.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.797,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 23.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.5,
+      "distance_to_tower_m": 5.28
+    },
+    {
+      "frame_id": 870,
+      "timestamp_utc": "2024-04-14T13:43:27.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "antenna_misalignment",
+      "confidence": 0.795,
+      "bbox_xywh": [
+        94,
+        113,
+        95,
+        71
+      ],
+      "gps": {
+        "lat": 23.022498,
+        "lon": 72.5713872,
+        "alt_m": 16.52
+      },
+      "ir_temp_delta_c": 24.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.53,
+      "distance_to_tower_m": 5.09
+    },
+    {
+      "frame_id": 920,
+      "timestamp_utc": "2024-04-14T13:43:32.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.693,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.23,
+      "distance_to_tower_m": 5.98
+    },
+    {
+      "frame_id": 921,
+      "timestamp_utc": "2024-04-14T13:43:32.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.749,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 11.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.13,
+      "distance_to_tower_m": 5.94
+    },
+    {
+      "frame_id": 922,
+      "timestamp_utc": "2024-04-14T13:43:32.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.771,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.19,
+      "distance_to_tower_m": 5.67
+    },
+    {
+      "frame_id": 923,
+      "timestamp_utc": "2024-04-14T13:43:32.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.735,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 8.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.19,
+      "distance_to_tower_m": 6.22
+    },
+    {
+      "frame_id": 924,
+      "timestamp_utc": "2024-04-14T13:43:32.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.712,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.22,
+      "distance_to_tower_m": 6.88
+    },
+    {
+      "frame_id": 925,
+      "timestamp_utc": "2024-04-14T13:43:32.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.732,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 8.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.21,
+      "distance_to_tower_m": 6.99
+    },
+    {
+      "frame_id": 926,
+      "timestamp_utc": "2024-04-14T13:43:32.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.754,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 13.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.24,
+      "distance_to_tower_m": 6.0
+    },
+    {
+      "frame_id": 927,
+      "timestamp_utc": "2024-04-14T13:43:32.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.707,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 13.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.16,
+      "distance_to_tower_m": 6.49
+    },
+    {
+      "frame_id": 928,
+      "timestamp_utc": "2024-04-14T13:43:32.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.719,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.19,
+      "distance_to_tower_m": 6.75
+    },
+    {
+      "frame_id": 929,
+      "timestamp_utc": "2024-04-14T13:43:32.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.72,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 8.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.24,
+      "distance_to_tower_m": 6.89
+    },
+    {
+      "frame_id": 930,
+      "timestamp_utc": "2024-04-14T13:43:33.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.683,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 9.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.22,
+      "distance_to_tower_m": 7.12
+    },
+    {
+      "frame_id": 931,
+      "timestamp_utc": "2024-04-14T13:43:33.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.685,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.22,
+      "distance_to_tower_m": 7.23
+    },
+    {
+      "frame_id": 932,
+      "timestamp_utc": "2024-04-14T13:43:33.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.728,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 13.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.23,
+      "distance_to_tower_m": 7.36
+    },
+    {
+      "frame_id": 933,
+      "timestamp_utc": "2024-04-14T13:43:33.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.712,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 13.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.23,
+      "distance_to_tower_m": 7.12
+    },
+    {
+      "frame_id": 934,
+      "timestamp_utc": "2024-04-14T13:43:33.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.722,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 11.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.13,
+      "distance_to_tower_m": 6.86
+    },
+    {
+      "frame_id": 935,
+      "timestamp_utc": "2024-04-14T13:43:33.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.738,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 9.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.11,
+      "distance_to_tower_m": 6.37
+    },
+    {
+      "frame_id": 936,
+      "timestamp_utc": "2024-04-14T13:43:33.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.612,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.2,
+      "distance_to_tower_m": 6.09
+    },
+    {
+      "frame_id": 937,
+      "timestamp_utc": "2024-04-14T13:43:33.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.711,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.14,
+      "distance_to_tower_m": 6.3
+    },
+    {
+      "frame_id": 938,
+      "timestamp_utc": "2024-04-14T13:43:33.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.719,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 8.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.08,
+      "distance_to_tower_m": 6.47
+    },
+    {
+      "frame_id": 939,
+      "timestamp_utc": "2024-04-14T13:43:33.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.68,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.04,
+      "distance_to_tower_m": 6.3
+    },
+    {
+      "frame_id": 940,
+      "timestamp_utc": "2024-04-14T13:43:34.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.682,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.05,
+      "distance_to_tower_m": 6.43
+    },
+    {
+      "frame_id": 941,
+      "timestamp_utc": "2024-04-14T13:43:34.100Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.692,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 11.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.07,
+      "distance_to_tower_m": 6.55
+    },
+    {
+      "frame_id": 942,
+      "timestamp_utc": "2024-04-14T13:43:34.200Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.732,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 7.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.09,
+      "distance_to_tower_m": 6.83
+    },
+    {
+      "frame_id": 943,
+      "timestamp_utc": "2024-04-14T13:43:34.300Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.688,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 9.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.04,
+      "distance_to_tower_m": 6.94
+    },
+    {
+      "frame_id": 944,
+      "timestamp_utc": "2024-04-14T13:43:34.400Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.704,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 9.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.07,
+      "distance_to_tower_m": 6.49
+    },
+    {
+      "frame_id": 945,
+      "timestamp_utc": "2024-04-14T13:43:34.500Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.733,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 11.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.0,
+      "distance_to_tower_m": 6.45
+    },
+    {
+      "frame_id": 946,
+      "timestamp_utc": "2024-04-14T13:43:34.600Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.713,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 9.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.0,
+      "distance_to_tower_m": 6.54
+    },
+    {
+      "frame_id": 947,
+      "timestamp_utc": "2024-04-14T13:43:34.700Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.732,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 11.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 43.96,
+      "distance_to_tower_m": 6.34
+    },
+    {
+      "frame_id": 948,
+      "timestamp_utc": "2024-04-14T13:43:34.800Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.749,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.07,
+      "distance_to_tower_m": 5.83
+    },
+    {
+      "frame_id": 949,
+      "timestamp_utc": "2024-04-14T13:43:34.900Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.684,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 10.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.13,
+      "distance_to_tower_m": 5.73
+    },
+    {
+      "frame_id": 950,
+      "timestamp_utc": "2024-04-14T13:43:35.000Z",
+      "mission_id": "MISSION_0087",
+      "site_id": "SITE_AMD_008",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.714,
+      "bbox_xywh": [
+        290,
+        80,
+        36,
+        45
+      ],
+      "gps": {
+        "lat": 23.0225277,
+        "lon": 72.5713919,
+        "alt_m": 28.2
+      },
+      "ir_temp_delta_c": 11.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 44.14,
+      "distance_to_tower_m": 6.42
+    }
+  ]
+}

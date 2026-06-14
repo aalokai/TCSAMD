@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0022",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_BLR_003",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "city": "Bengaluru",
+    "tower_type": "lattice",
+    "height_m": 55
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_005",
+  "operator": "GTL Infra",
+  "total_frames": 850,
+  "anomaly_frames": 121,
+  "anomaly_rate_pct": 14.24,
+  "flight_date": "2024-03-16",
+  "weather": "haze",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-99497",
+  "firmware_version": "v6.2.03"
+}

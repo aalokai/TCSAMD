@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0055",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_KOL_006",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "city": "Kolkata",
+    "tower_type": "lattice",
+    "height_m": 48
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_005",
+  "operator": "Indus Towers",
+  "total_frames": 720,
+  "anomaly_frames": 292,
+  "anomaly_rate_pct": 40.56,
+  "flight_date": "2024-10-03",
+  "weather": "haze",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-23181",
+  "firmware_version": "v6.9.66"
+}

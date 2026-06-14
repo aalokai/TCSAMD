@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0061",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_DEL_002",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "city": "Delhi",
+    "tower_type": "monopole",
+    "height_m": 35
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_004",
+  "operator": "TowerCo India",
+  "total_frames": 940,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-12-05",
+  "weather": "clear",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-91718",
+  "firmware_version": "v8.0.95"
+}

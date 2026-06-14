@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0008",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_JAI_009",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "city": "Jaipur",
+    "tower_type": "monopole",
+    "height_m": 33
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_008",
+  "operator": "TowerCo India",
+  "total_frames": 1620,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-05-20",
+  "weather": "haze",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-27699",
+  "firmware_version": "v5.9.24"
+}

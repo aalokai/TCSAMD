@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0018",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_JAI_009",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "city": "Jaipur",
+    "tower_type": "monopole",
+    "height_m": 33
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_010",
+  "operator": "TASL",
+  "total_frames": 890,
+  "anomaly_frames": 304,
+  "anomaly_rate_pct": 34.16,
+  "flight_date": "2024-11-19",
+  "weather": "clear",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-29713",
+  "firmware_version": "v9.1.13"
+}

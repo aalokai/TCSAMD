@@ -1,0 +1,11 @@
+# Cell Tower Structural Anomaly Detection Dataset
+path: ./tower_inspection_dataset
+train: train/images
+val:   val/images
+test:  test/images
+
+nc: 6
+names: ['crack', 'rust', 'corrosion', 'missing_bolt', 'paint_damage', 'structural_bend']
+
+# 0 crack | 1 rust | 2 corrosion | 3 missing_bolt | 4 paint_damage | 5 structural_bend
+# Images: 640x640 PNG | YOLO normalised xywh

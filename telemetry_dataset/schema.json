@@ -1,0 +1,342 @@
+{
+  "version": "1.0",
+  "description": "Drone telemetry schema for cell tower thermal inspection",
+  "fields": {
+    "timestamp_utc": {
+      "type": "string",
+      "format": "ISO8601",
+      "unit": "UTC"
+    },
+    "mission_id": {
+      "type": "string",
+      "description": "Unique mission identifier"
+    },
+    "frame_id": {
+      "type": "int",
+      "description": "Frame index within mission"
+    },
+    "waypoint_id": {
+      "type": "int",
+      "description": "Current waypoint index"
+    },
+    "inspection_phase": {
+      "type": "string",
+      "enum": [
+        "takeoff",
+        "transit",
+        "orbit_base",
+        "climb_tower",
+        "antenna_inspection",
+        "cable_inspection",
+        "cabinet_inspection",
+        "descent",
+        "landing"
+      ]
+    },
+    "site_id": {
+      "type": "string",
+      "description": "Tower site identifier"
+    },
+    "latitude_deg": {
+      "type": "float",
+      "unit": "degrees",
+      "wgs84": true
+    },
+    "longitude_deg": {
+      "type": "float",
+      "unit": "degrees",
+      "wgs84": true
+    },
+    "altitude_m": {
+      "type": "float",
+      "unit": "meters",
+      "reference": "AGL"
+    },
+    "heading_deg": {
+      "type": "float",
+      "unit": "degrees",
+      "range": [
+        0,
+        360
+      ]
+    },
+    "ground_speed_ms": {
+      "type": "float",
+      "unit": "m/s"
+    },
+    "vertical_speed_ms": {
+      "type": "float",
+      "unit": "m/s",
+      "positive": "ascending"
+    },
+    "distance_to_tower_m": {
+      "type": "float",
+      "unit": "meters"
+    },
+    "roll_deg": {
+      "type": "float",
+      "unit": "degrees"
+    },
+    "pitch_deg": {
+      "type": "float",
+      "unit": "degrees"
+    },
+    "yaw_deg": {
+      "type": "float",
+      "unit": "degrees"
+    },
+    "quat_w": {
+      "type": "float",
+      "description": "Quaternion W"
+    },
+    "quat_x": {
+      "type": "float",
+      "description": "Quaternion X"
+    },
+    "quat_y": {
+      "type": "float",
+      "description": "Quaternion Y"
+    },
+    "quat_z": {
+      "type": "float",
+      "description": "Quaternion Z"
+    },
+    "accel_x_ms2": {
+      "type": "float",
+      "unit": "m/s\u00b2"
+    },
+    "accel_y_ms2": {
+      "type": "float",
+      "unit": "m/s\u00b2"
+    },
+    "accel_z_ms2": {
+      "type": "float",
+      "unit": "m/s\u00b2"
+    },
+    "gyro_x_rads": {
+      "type": "float",
+      "unit": "rad/s"
+    },
+    "gyro_y_rads": {
+      "type": "float",
+      "unit": "rad/s"
+    },
+    "gyro_z_rads": {
+      "type": "float",
+      "unit": "rad/s"
+    },
+    "vibration_level": {
+      "type": "float",
+      "unit": "normalized",
+      "range": [
+        0,
+        1
+      ]
+    },
+    "gps_fix_type": {
+      "type": "int",
+      "description": "3=3D fix"
+    },
+    "gps_satellite_count": {
+      "type": "int"
+    },
+    "gps_hdop": {
+      "type": "float",
+      "description": "Horizontal dilution of precision"
+    },
+    "gps_vdop": {
+      "type": "float",
+      "description": "Vertical dilution of precision"
+    },
+    "position_error_m": {
+      "type": "float",
+      "unit": "meters"
+    },
+    "battery_voltage_v": {
+      "type": "float",
+      "unit": "volts"
+    },
+    "battery_current_a": {
+      "type": "float",
+      "unit": "amperes"
+    },
+    "battery_remaining_pct": {
+      "type": "float",
+      "unit": "%"
+    },
+    "battery_temp_c": {
+      "type": "float",
+      "unit": "\u00b0C"
+    },
+    "battery_capacity_mah": {
+      "type": "float",
+      "unit": "mAh"
+    },
+    "motor_fl_rpm": {
+      "type": "int",
+      "unit": "RPM",
+      "motor": "front-left"
+    },
+    "motor_fr_rpm": {
+      "type": "int",
+      "unit": "RPM",
+      "motor": "front-right"
+    },
+    "motor_rl_rpm": {
+      "type": "int",
+      "unit": "RPM",
+      "motor": "rear-left"
+    },
+    "motor_rr_rpm": {
+      "type": "int",
+      "unit": "RPM",
+      "motor": "rear-right"
+    },
+    "motor_fl_temp_c": {
+      "type": "float",
+      "unit": "\u00b0C"
+    },
+    "motor_fr_temp_c": {
+      "type": "float",
+      "unit": "\u00b0C"
+    },
+    "motor_rl_temp_c": {
+      "type": "float",
+      "unit": "\u00b0C"
+    },
+    "motor_rr_temp_c": {
+      "type": "float",
+      "unit": "\u00b0C"
+    },
+    "motor_fl_thrust_n": {
+      "type": "float",
+      "unit": "Newtons"
+    },
+    "motor_fr_thrust_n": {
+      "type": "float",
+      "unit": "Newtons"
+    },
+    "motor_rl_thrust_n": {
+      "type": "float",
+      "unit": "Newtons"
+    },
+    "motor_rr_thrust_n": {
+      "type": "float",
+      "unit": "Newtons"
+    },
+    "wind_speed_ms": {
+      "type": "float",
+      "unit": "m/s"
+    },
+    "wind_dir_deg": {
+      "type": "float",
+      "unit": "degrees"
+    },
+    "air_temp_c": {
+      "type": "float",
+      "unit": "\u00b0C"
+    },
+    "humidity_pct": {
+      "type": "float",
+      "unit": "%"
+    },
+    "pressure_hpa": {
+      "type": "float",
+      "unit": "hPa"
+    },
+    "gimbal_pitch_deg": {
+      "type": "float",
+      "unit": "degrees"
+    },
+    "gimbal_roll_deg": {
+      "type": "float",
+      "unit": "degrees"
+    },
+    "zoom_factor": {
+      "type": "float",
+      "range": [
+        1.0,
+        4.0
+      ]
+    },
+    "ir_temp_min_c": {
+      "type": "float",
+      "unit": "\u00b0C",
+      "description": "Min temp in thermal frame"
+    },
+    "ir_temp_max_c": {
+      "type": "float",
+      "unit": "\u00b0C",
+      "description": "Max temp in thermal frame"
+    },
+    "ir_temp_avg_c": {
+      "type": "float",
+      "unit": "\u00b0C",
+      "description": "Avg temp in thermal frame"
+    },
+    "anomaly_detected": {
+      "type": "int",
+      "values": [
+        0,
+        1
+      ]
+    },
+    "anomaly_class": {
+      "type": "string",
+      "enum": [
+        "hotspot_critical",
+        "hotspot_moderate",
+        "hotspot_minor",
+        "antenna_misalignment",
+        "cable_fault",
+        "connector_failure",
+        "corrosion",
+        "structural_crack",
+        "no_anomaly"
+      ]
+    },
+    "anomaly_confidence": {
+      "type": "float",
+      "range": [
+        0,
+        1
+      ]
+    },
+    "anomaly_bbox_x": {
+      "type": "int",
+      "unit": "pixels"
+    },
+    "anomaly_bbox_y": {
+      "type": "int",
+      "unit": "pixels"
+    },
+    "anomaly_bbox_w": {
+      "type": "int",
+      "unit": "pixels"
+    },
+    "anomaly_bbox_h": {
+      "type": "int",
+      "unit": "pixels"
+    },
+    "anomaly_gps_lat": {
+      "type": "float",
+      "unit": "degrees",
+      "description": "GPS lat of anomaly"
+    },
+    "anomaly_gps_lon": {
+      "type": "float",
+      "unit": "degrees",
+      "description": "GPS lon of anomaly"
+    },
+    "anomaly_gps_alt_m": {
+      "type": "float",
+      "unit": "meters",
+      "description": "Altitude of anomaly"
+    },
+    "ir_temp_delta_c": {
+      "type": "float",
+      "unit": "\u00b0C",
+      "description": "Temp rise vs ambient"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0002",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_BLR_003",
+    "lat": 12.9716,
+    "lon": 77.5946,
+    "city": "Bengaluru",
+    "tower_type": "lattice",
+    "height_m": 55
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_009",
+  "operator": "TASL",
+  "total_frames": 830,
+  "anomaly_frames": 262,
+  "anomaly_rate_pct": 31.57,
+  "flight_date": "2024-08-16",
+  "weather": "clear",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-11821",
+  "firmware_version": "v9.3.95"
+}

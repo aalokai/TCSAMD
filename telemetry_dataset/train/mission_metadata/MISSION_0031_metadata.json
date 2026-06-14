@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0031",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_DEL_002",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "city": "Delhi",
+    "tower_type": "monopole",
+    "height_m": 35
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_003",
+  "operator": "Indus Towers",
+  "total_frames": 990,
+  "anomaly_frames": 121,
+  "anomaly_rate_pct": 12.22,
+  "flight_date": "2024-02-04",
+  "weather": "overcast",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-83432",
+  "firmware_version": "v8.5.59"
+}

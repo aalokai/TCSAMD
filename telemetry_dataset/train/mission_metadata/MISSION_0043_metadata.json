@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0043",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_CHE_004",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "city": "Chennai",
+    "tower_type": "monopole",
+    "height_m": 38
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_002",
+  "operator": "Indus Towers",
+  "total_frames": 1060,
+  "anomaly_frames": 51,
+  "anomaly_rate_pct": 4.81,
+  "flight_date": "2024-12-26",
+  "weather": "overcast",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-92132",
+  "firmware_version": "v9.6.58"
+}

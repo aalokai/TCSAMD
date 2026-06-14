@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0073",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_CHE_004",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "city": "Chennai",
+    "tower_type": "monopole",
+    "height_m": 38
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_001",
+  "operator": "GTL Infra",
+  "total_frames": 1500,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-04-25",
+  "weather": "haze",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-25035",
+  "firmware_version": "v5.6.23"
+}

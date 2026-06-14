@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0048",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_JAI_009",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "city": "Jaipur",
+    "tower_type": "monopole",
+    "height_m": 33
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_006",
+  "operator": "GTL Infra",
+  "total_frames": 1250,
+  "anomaly_frames": 263,
+  "anomaly_rate_pct": 21.04,
+  "flight_date": "2024-04-08",
+  "weather": "overcast",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-52344",
+  "firmware_version": "v9.6.45"
+}

@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0016",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_PUN_007",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "city": "Pune",
+    "tower_type": "monopole",
+    "height_m": 30
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_003",
+  "operator": "Indus Towers",
+  "total_frames": 720,
+  "anomaly_frames": 222,
+  "anomaly_rate_pct": 30.83,
+  "flight_date": "2024-02-28",
+  "weather": "overcast",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-41771",
+  "firmware_version": "v8.1.89"
+}

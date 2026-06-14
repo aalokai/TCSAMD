@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0099",
+  "split": "test",
+  "site": {
+    "site_id": "SITE_LKN_010",
+    "lat": 26.8467,
+    "lon": 80.9462,
+    "city": "Lucknow",
+    "tower_type": "guyed",
+    "height_m": 52
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_007",
+  "operator": "TowerCo India",
+  "total_frames": 1250,
+  "anomaly_frames": 182,
+  "anomaly_rate_pct": 14.56,
+  "flight_date": "2024-09-04",
+  "weather": "haze",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-47253",
+  "firmware_version": "v8.0.11"
+}

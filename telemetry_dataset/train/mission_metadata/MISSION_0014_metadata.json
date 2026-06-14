@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0014",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_HYD_005",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "city": "Hyderabad",
+    "tower_type": "guyed",
+    "height_m": 60
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_005",
+  "operator": "GTL Infra",
+  "total_frames": 1630,
+  "anomaly_frames": 192,
+  "anomaly_rate_pct": 11.78,
+  "flight_date": "2024-10-12",
+  "weather": "haze",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-44527",
+  "firmware_version": "v5.9.58"
+}

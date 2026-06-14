@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0036",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_PUN_007",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "city": "Pune",
+    "tower_type": "monopole",
+    "height_m": 30
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_005",
+  "operator": "TowerCo India",
+  "total_frames": 1530,
+  "anomaly_frames": 172,
+  "anomaly_rate_pct": 11.24,
+  "flight_date": "2024-05-20",
+  "weather": "partly_cloudy",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-10249",
+  "firmware_version": "v5.0.51"
+}

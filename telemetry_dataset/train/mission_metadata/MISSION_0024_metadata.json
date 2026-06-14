@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0024",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_HYD_005",
+    "lat": 17.385,
+    "lon": 78.4867,
+    "city": "Hyderabad",
+    "tower_type": "guyed",
+    "height_m": 60
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "Sony ILX-LR1 (4K)",
+  "pilot": "PILOT_009",
+  "operator": "TASL",
+  "total_frames": 1100,
+  "anomaly_frames": 222,
+  "anomaly_rate_pct": 20.18,
+  "flight_date": "2024-01-09",
+  "weather": "haze",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-61745",
+  "firmware_version": "v6.8.06"
+}

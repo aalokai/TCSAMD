@@ -1,0 +1,2813 @@
+{
+  "mission_id": "MISSION_0060",
+  "site_id": "SITE_BOM_001",
+  "total_anomaly_frames": 122,
+  "annotations": [
+    {
+      "frame_id": 750,
+      "timestamp_utc": "2024-12-10T12:14:15.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.976,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.31,
+      "distance_to_tower_m": 15.08
+    },
+    {
+      "frame_id": 751,
+      "timestamp_utc": "2024-12-10T12:14:15.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.879,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.3,
+      "distance_to_tower_m": 14.93
+    },
+    {
+      "frame_id": 752,
+      "timestamp_utc": "2024-12-10T12:14:15.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.911,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 26.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.25,
+      "distance_to_tower_m": 14.82
+    },
+    {
+      "frame_id": 753,
+      "timestamp_utc": "2024-12-10T12:14:15.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.88,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 25.9,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.28,
+      "distance_to_tower_m": 14.75
+    },
+    {
+      "frame_id": 754,
+      "timestamp_utc": "2024-12-10T12:14:15.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.955,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 25.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.28,
+      "distance_to_tower_m": 14.5
+    },
+    {
+      "frame_id": 755,
+      "timestamp_utc": "2024-12-10T12:14:15.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 1.0,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.3,
+      "distance_to_tower_m": 14.69
+    },
+    {
+      "frame_id": 756,
+      "timestamp_utc": "2024-12-10T12:14:15.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.969,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 25.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.26,
+      "distance_to_tower_m": 14.66
+    },
+    {
+      "frame_id": 757,
+      "timestamp_utc": "2024-12-10T12:14:15.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.953,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.27,
+      "distance_to_tower_m": 14.31
+    },
+    {
+      "frame_id": 758,
+      "timestamp_utc": "2024-12-10T12:14:15.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.913,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.34,
+      "distance_to_tower_m": 14.06
+    },
+    {
+      "frame_id": 759,
+      "timestamp_utc": "2024-12-10T12:14:15.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.947,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.37,
+      "distance_to_tower_m": 14.28
+    },
+    {
+      "frame_id": 760,
+      "timestamp_utc": "2024-12-10T12:14:16.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.951,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.43,
+      "distance_to_tower_m": 14.49
+    },
+    {
+      "frame_id": 761,
+      "timestamp_utc": "2024-12-10T12:14:16.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.958,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 21.6,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.53,
+      "distance_to_tower_m": 14.39
+    },
+    {
+      "frame_id": 762,
+      "timestamp_utc": "2024-12-10T12:14:16.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.941,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 25.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.56,
+      "distance_to_tower_m": 14.05
+    },
+    {
+      "frame_id": 763,
+      "timestamp_utc": "2024-12-10T12:14:16.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.983,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.56,
+      "distance_to_tower_m": 13.89
+    },
+    {
+      "frame_id": 764,
+      "timestamp_utc": "2024-12-10T12:14:16.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.956,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 27.1,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.57,
+      "distance_to_tower_m": 14.31
+    },
+    {
+      "frame_id": 765,
+      "timestamp_utc": "2024-12-10T12:14:16.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.896,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 20.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.6,
+      "distance_to_tower_m": 14.07
+    },
+    {
+      "frame_id": 766,
+      "timestamp_utc": "2024-12-10T12:14:16.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.912,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.61,
+      "distance_to_tower_m": 14.32
+    },
+    {
+      "frame_id": 767,
+      "timestamp_utc": "2024-12-10T12:14:16.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.93,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.65,
+      "distance_to_tower_m": 14.14
+    },
+    {
+      "frame_id": 768,
+      "timestamp_utc": "2024-12-10T12:14:16.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.944,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.57,
+      "distance_to_tower_m": 13.63
+    },
+    {
+      "frame_id": 769,
+      "timestamp_utc": "2024-12-10T12:14:16.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.899,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.52,
+      "distance_to_tower_m": 13.6
+    },
+    {
+      "frame_id": 770,
+      "timestamp_utc": "2024-12-10T12:14:17.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.964,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.7,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.51,
+      "distance_to_tower_m": 13.97
+    },
+    {
+      "frame_id": 771,
+      "timestamp_utc": "2024-12-10T12:14:17.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.971,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 25.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.49,
+      "distance_to_tower_m": 13.94
+    },
+    {
+      "frame_id": 772,
+      "timestamp_utc": "2024-12-10T12:14:17.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.928,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.5,
+      "distance_to_tower_m": 14.17
+    },
+    {
+      "frame_id": 773,
+      "timestamp_utc": "2024-12-10T12:14:17.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 1.0,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.2,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.54,
+      "distance_to_tower_m": 14.08
+    },
+    {
+      "frame_id": 774,
+      "timestamp_utc": "2024-12-10T12:14:17.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.898,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 25.6,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.54,
+      "distance_to_tower_m": 13.71
+    },
+    {
+      "frame_id": 775,
+      "timestamp_utc": "2024-12-10T12:14:17.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.949,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 23.0,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.48,
+      "distance_to_tower_m": 13.88
+    },
+    {
+      "frame_id": 776,
+      "timestamp_utc": "2024-12-10T12:14:17.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.953,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.8,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.47,
+      "distance_to_tower_m": 14.23
+    },
+    {
+      "frame_id": 777,
+      "timestamp_utc": "2024-12-10T12:14:17.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.98,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.52,
+      "distance_to_tower_m": 14.49
+    },
+    {
+      "frame_id": 778,
+      "timestamp_utc": "2024-12-10T12:14:17.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.945,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.5,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.46,
+      "distance_to_tower_m": 14.79
+    },
+    {
+      "frame_id": 779,
+      "timestamp_utc": "2024-12-10T12:14:17.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.95,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 22.3,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.44,
+      "distance_to_tower_m": 14.89
+    },
+    {
+      "frame_id": 780,
+      "timestamp_utc": "2024-12-10T12:14:18.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "connector_failure",
+      "confidence": 0.949,
+      "bbox_xywh": [
+        275,
+        75,
+        44,
+        39
+      ],
+      "gps": {
+        "lat": 19.0759625,
+        "lon": 72.8776971,
+        "alt_m": 22.75
+      },
+      "ir_temp_delta_c": 24.4,
+      "inspection_phase": "antenna_inspection",
+      "drone_alt_m": 40.38,
+      "distance_to_tower_m": 15.35
+    },
+    {
+      "frame_id": 1060,
+      "timestamp_utc": "2024-12-10T12:14:46.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.802,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.45,
+      "distance_to_tower_m": 23.03
+    },
+    {
+      "frame_id": 1061,
+      "timestamp_utc": "2024-12-10T12:14:46.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.781,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.44,
+      "distance_to_tower_m": 22.48
+    },
+    {
+      "frame_id": 1062,
+      "timestamp_utc": "2024-12-10T12:14:46.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.799,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.4,
+      "distance_to_tower_m": 21.95
+    },
+    {
+      "frame_id": 1063,
+      "timestamp_utc": "2024-12-10T12:14:46.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.798,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 14.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.4,
+      "distance_to_tower_m": 22.42
+    },
+    {
+      "frame_id": 1064,
+      "timestamp_utc": "2024-12-10T12:14:46.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.815,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.44,
+      "distance_to_tower_m": 22.54
+    },
+    {
+      "frame_id": 1065,
+      "timestamp_utc": "2024-12-10T12:14:46.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.834,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.28,
+      "distance_to_tower_m": 22.35
+    },
+    {
+      "frame_id": 1066,
+      "timestamp_utc": "2024-12-10T12:14:46.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.845,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.31,
+      "distance_to_tower_m": 22.04
+    },
+    {
+      "frame_id": 1067,
+      "timestamp_utc": "2024-12-10T12:14:46.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.754,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.33,
+      "distance_to_tower_m": 22.26
+    },
+    {
+      "frame_id": 1068,
+      "timestamp_utc": "2024-12-10T12:14:46.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.77,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.24,
+      "distance_to_tower_m": 22.19
+    },
+    {
+      "frame_id": 1069,
+      "timestamp_utc": "2024-12-10T12:14:46.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.813,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.26,
+      "distance_to_tower_m": 22.17
+    },
+    {
+      "frame_id": 1070,
+      "timestamp_utc": "2024-12-10T12:14:47.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.785,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.26,
+      "distance_to_tower_m": 21.93
+    },
+    {
+      "frame_id": 1071,
+      "timestamp_utc": "2024-12-10T12:14:47.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.837,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.24,
+      "distance_to_tower_m": 21.79
+    },
+    {
+      "frame_id": 1072,
+      "timestamp_utc": "2024-12-10T12:14:47.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.752,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.2,
+      "distance_to_tower_m": 21.13
+    },
+    {
+      "frame_id": 1073,
+      "timestamp_utc": "2024-12-10T12:14:47.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.773,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.2,
+      "distance_to_tower_m": 21.34
+    },
+    {
+      "frame_id": 1074,
+      "timestamp_utc": "2024-12-10T12:14:47.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.748,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.8,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.18,
+      "distance_to_tower_m": 21.4
+    },
+    {
+      "frame_id": 1075,
+      "timestamp_utc": "2024-12-10T12:14:47.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.771,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.6,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.16,
+      "distance_to_tower_m": 20.87
+    },
+    {
+      "frame_id": 1076,
+      "timestamp_utc": "2024-12-10T12:14:47.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.748,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.18,
+      "distance_to_tower_m": 21.1
+    },
+    {
+      "frame_id": 1077,
+      "timestamp_utc": "2024-12-10T12:14:47.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.8,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.07,
+      "distance_to_tower_m": 20.61
+    },
+    {
+      "frame_id": 1078,
+      "timestamp_utc": "2024-12-10T12:14:47.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.835,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.12,
+      "distance_to_tower_m": 20.61
+    },
+    {
+      "frame_id": 1079,
+      "timestamp_utc": "2024-12-10T12:14:47.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.821,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.11,
+      "distance_to_tower_m": 20.61
+    },
+    {
+      "frame_id": 1080,
+      "timestamp_utc": "2024-12-10T12:14:48.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.799,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 10.9,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.03,
+      "distance_to_tower_m": 20.55
+    },
+    {
+      "frame_id": 1081,
+      "timestamp_utc": "2024-12-10T12:14:48.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.758,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 39.06,
+      "distance_to_tower_m": 20.55
+    },
+    {
+      "frame_id": 1082,
+      "timestamp_utc": "2024-12-10T12:14:48.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.806,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.5,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 38.95,
+      "distance_to_tower_m": 20.5
+    },
+    {
+      "frame_id": 1083,
+      "timestamp_utc": "2024-12-10T12:14:48.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.76,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.0,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 38.95,
+      "distance_to_tower_m": 19.93
+    },
+    {
+      "frame_id": 1084,
+      "timestamp_utc": "2024-12-10T12:14:48.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.832,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 38.88,
+      "distance_to_tower_m": 19.64
+    },
+    {
+      "frame_id": 1085,
+      "timestamp_utc": "2024-12-10T12:14:48.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.786,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.4,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 38.88,
+      "distance_to_tower_m": 19.18
+    },
+    {
+      "frame_id": 1086,
+      "timestamp_utc": "2024-12-10T12:14:48.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.743,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.1,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 38.93,
+      "distance_to_tower_m": 18.92
+    },
+    {
+      "frame_id": 1087,
+      "timestamp_utc": "2024-12-10T12:14:48.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.852,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.7,
+      "inspection_phase": "cable_inspection",
+      "drone_alt_m": 38.94,
+      "distance_to_tower_m": 18.3
+    },
+    {
+      "frame_id": 1088,
+      "timestamp_utc": "2024-12-10T12:14:48.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.806,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.96,
+      "distance_to_tower_m": 18.5
+    },
+    {
+      "frame_id": 1089,
+      "timestamp_utc": "2024-12-10T12:14:48.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.804,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 9.0,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.96,
+      "distance_to_tower_m": 18.52
+    },
+    {
+      "frame_id": 1090,
+      "timestamp_utc": "2024-12-10T12:14:49.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.792,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.3,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.91,
+      "distance_to_tower_m": 18.64
+    },
+    {
+      "frame_id": 1091,
+      "timestamp_utc": "2024-12-10T12:14:49.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.787,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.4,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.02,
+      "distance_to_tower_m": 18.58
+    },
+    {
+      "frame_id": 1092,
+      "timestamp_utc": "2024-12-10T12:14:49.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.794,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.8,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.03,
+      "distance_to_tower_m": 18.91
+    },
+    {
+      "frame_id": 1093,
+      "timestamp_utc": "2024-12-10T12:14:49.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.818,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.13,
+      "distance_to_tower_m": 18.56
+    },
+    {
+      "frame_id": 1094,
+      "timestamp_utc": "2024-12-10T12:14:49.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.696,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.08,
+      "distance_to_tower_m": 18.67
+    },
+    {
+      "frame_id": 1095,
+      "timestamp_utc": "2024-12-10T12:14:49.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.804,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.4,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.07,
+      "distance_to_tower_m": 18.41
+    },
+    {
+      "frame_id": 1096,
+      "timestamp_utc": "2024-12-10T12:14:49.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.719,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.5,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.05,
+      "distance_to_tower_m": 18.6
+    },
+    {
+      "frame_id": 1097,
+      "timestamp_utc": "2024-12-10T12:14:49.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.793,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.1,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.98,
+      "distance_to_tower_m": 18.95
+    },
+    {
+      "frame_id": 1098,
+      "timestamp_utc": "2024-12-10T12:14:49.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.764,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.02,
+      "distance_to_tower_m": 18.97
+    },
+    {
+      "frame_id": 1099,
+      "timestamp_utc": "2024-12-10T12:14:49.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.834,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 10.7,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.96,
+      "distance_to_tower_m": 18.79
+    },
+    {
+      "frame_id": 1100,
+      "timestamp_utc": "2024-12-10T12:14:50.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.787,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.88,
+      "distance_to_tower_m": 19.1
+    },
+    {
+      "frame_id": 1101,
+      "timestamp_utc": "2024-12-10T12:14:50.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.776,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.85,
+      "distance_to_tower_m": 18.49
+    },
+    {
+      "frame_id": 1102,
+      "timestamp_utc": "2024-12-10T12:14:50.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.856,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.93,
+      "distance_to_tower_m": 18.7
+    },
+    {
+      "frame_id": 1103,
+      "timestamp_utc": "2024-12-10T12:14:50.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.77,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.8,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.93,
+      "distance_to_tower_m": 18.96
+    },
+    {
+      "frame_id": 1104,
+      "timestamp_utc": "2024-12-10T12:14:50.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.797,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.7,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.91,
+      "distance_to_tower_m": 18.9
+    },
+    {
+      "frame_id": 1105,
+      "timestamp_utc": "2024-12-10T12:14:50.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.715,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.0,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.86,
+      "distance_to_tower_m": 19.15
+    },
+    {
+      "frame_id": 1106,
+      "timestamp_utc": "2024-12-10T12:14:50.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.759,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.85,
+      "distance_to_tower_m": 18.75
+    },
+    {
+      "frame_id": 1107,
+      "timestamp_utc": "2024-12-10T12:14:50.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.772,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.7,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.83,
+      "distance_to_tower_m": 19.05
+    },
+    {
+      "frame_id": 1108,
+      "timestamp_utc": "2024-12-10T12:14:50.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.824,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.8,
+      "distance_to_tower_m": 18.69
+    },
+    {
+      "frame_id": 1109,
+      "timestamp_utc": "2024-12-10T12:14:50.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.822,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.7,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.83,
+      "distance_to_tower_m": 19.17
+    },
+    {
+      "frame_id": 1110,
+      "timestamp_utc": "2024-12-10T12:14:51.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.742,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.0,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.87,
+      "distance_to_tower_m": 18.61
+    },
+    {
+      "frame_id": 1111,
+      "timestamp_utc": "2024-12-10T12:14:51.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.764,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.1,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.79,
+      "distance_to_tower_m": 18.1
+    },
+    {
+      "frame_id": 1112,
+      "timestamp_utc": "2024-12-10T12:14:51.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.789,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.79,
+      "distance_to_tower_m": 17.85
+    },
+    {
+      "frame_id": 1113,
+      "timestamp_utc": "2024-12-10T12:14:51.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.747,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.7,
+      "distance_to_tower_m": 17.91
+    },
+    {
+      "frame_id": 1114,
+      "timestamp_utc": "2024-12-10T12:14:51.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.794,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.71,
+      "distance_to_tower_m": 18.42
+    },
+    {
+      "frame_id": 1115,
+      "timestamp_utc": "2024-12-10T12:14:51.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.769,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.5,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.67,
+      "distance_to_tower_m": 19.09
+    },
+    {
+      "frame_id": 1116,
+      "timestamp_utc": "2024-12-10T12:14:51.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.804,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.68,
+      "distance_to_tower_m": 18.88
+    },
+    {
+      "frame_id": 1117,
+      "timestamp_utc": "2024-12-10T12:14:51.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.811,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.62,
+      "distance_to_tower_m": 18.63
+    },
+    {
+      "frame_id": 1118,
+      "timestamp_utc": "2024-12-10T12:14:51.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.784,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.7,
+      "distance_to_tower_m": 18.44
+    },
+    {
+      "frame_id": 1119,
+      "timestamp_utc": "2024-12-10T12:14:51.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.786,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.4,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.68,
+      "distance_to_tower_m": 17.98
+    },
+    {
+      "frame_id": 1120,
+      "timestamp_utc": "2024-12-10T12:14:52.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.735,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.3,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.69,
+      "distance_to_tower_m": 17.86
+    },
+    {
+      "frame_id": 1121,
+      "timestamp_utc": "2024-12-10T12:14:52.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.781,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.3,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.77,
+      "distance_to_tower_m": 18.02
+    },
+    {
+      "frame_id": 1122,
+      "timestamp_utc": "2024-12-10T12:14:52.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.816,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.75,
+      "distance_to_tower_m": 17.92
+    },
+    {
+      "frame_id": 1123,
+      "timestamp_utc": "2024-12-10T12:14:52.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.781,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.77,
+      "distance_to_tower_m": 17.68
+    },
+    {
+      "frame_id": 1124,
+      "timestamp_utc": "2024-12-10T12:14:52.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.806,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.8,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.74,
+      "distance_to_tower_m": 18.54
+    },
+    {
+      "frame_id": 1125,
+      "timestamp_utc": "2024-12-10T12:14:52.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.744,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.1,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.73,
+      "distance_to_tower_m": 18.26
+    },
+    {
+      "frame_id": 1126,
+      "timestamp_utc": "2024-12-10T12:14:52.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.773,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.72,
+      "distance_to_tower_m": 18.44
+    },
+    {
+      "frame_id": 1127,
+      "timestamp_utc": "2024-12-10T12:14:52.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.716,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.5,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.76,
+      "distance_to_tower_m": 18.58
+    },
+    {
+      "frame_id": 1128,
+      "timestamp_utc": "2024-12-10T12:14:52.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.758,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 5.7,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.72,
+      "distance_to_tower_m": 18.76
+    },
+    {
+      "frame_id": 1129,
+      "timestamp_utc": "2024-12-10T12:14:52.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.746,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.0,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.79,
+      "distance_to_tower_m": 19.16
+    },
+    {
+      "frame_id": 1130,
+      "timestamp_utc": "2024-12-10T12:14:53.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.81,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.5,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.78,
+      "distance_to_tower_m": 19.18
+    },
+    {
+      "frame_id": 1131,
+      "timestamp_utc": "2024-12-10T12:14:53.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.778,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 10.8,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.81,
+      "distance_to_tower_m": 19.41
+    },
+    {
+      "frame_id": 1132,
+      "timestamp_utc": "2024-12-10T12:14:53.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.762,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.86,
+      "distance_to_tower_m": 19.55
+    },
+    {
+      "frame_id": 1133,
+      "timestamp_utc": "2024-12-10T12:14:53.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.766,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.1,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 38.96,
+      "distance_to_tower_m": 19.86
+    },
+    {
+      "frame_id": 1134,
+      "timestamp_utc": "2024-12-10T12:14:53.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.794,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 10.1,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.02,
+      "distance_to_tower_m": 20.27
+    },
+    {
+      "frame_id": 1135,
+      "timestamp_utc": "2024-12-10T12:14:53.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.76,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.03,
+      "distance_to_tower_m": 20.45
+    },
+    {
+      "frame_id": 1136,
+      "timestamp_utc": "2024-12-10T12:14:53.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.761,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.5,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.04,
+      "distance_to_tower_m": 20.14
+    },
+    {
+      "frame_id": 1137,
+      "timestamp_utc": "2024-12-10T12:14:53.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.79,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.1,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.07,
+      "distance_to_tower_m": 20.44
+    },
+    {
+      "frame_id": 1138,
+      "timestamp_utc": "2024-12-10T12:14:53.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.823,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.2,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.15,
+      "distance_to_tower_m": 20.35
+    },
+    {
+      "frame_id": 1139,
+      "timestamp_utc": "2024-12-10T12:14:53.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.752,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.23,
+      "distance_to_tower_m": 19.97
+    },
+    {
+      "frame_id": 1140,
+      "timestamp_utc": "2024-12-10T12:14:54.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.798,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.0,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.26,
+      "distance_to_tower_m": 19.81
+    },
+    {
+      "frame_id": 1141,
+      "timestamp_utc": "2024-12-10T12:14:54.100Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.795,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.0,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.3,
+      "distance_to_tower_m": 20.24
+    },
+    {
+      "frame_id": 1142,
+      "timestamp_utc": "2024-12-10T12:14:54.200Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.831,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.5,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.29,
+      "distance_to_tower_m": 19.74
+    },
+    {
+      "frame_id": 1143,
+      "timestamp_utc": "2024-12-10T12:14:54.300Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.788,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.34,
+      "distance_to_tower_m": 19.59
+    },
+    {
+      "frame_id": 1144,
+      "timestamp_utc": "2024-12-10T12:14:54.400Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.831,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.2,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.4,
+      "distance_to_tower_m": 19.61
+    },
+    {
+      "frame_id": 1145,
+      "timestamp_utc": "2024-12-10T12:14:54.500Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.754,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.8,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.32,
+      "distance_to_tower_m": 18.81
+    },
+    {
+      "frame_id": 1146,
+      "timestamp_utc": "2024-12-10T12:14:54.600Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.777,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.6,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.31,
+      "distance_to_tower_m": 18.86
+    },
+    {
+      "frame_id": 1147,
+      "timestamp_utc": "2024-12-10T12:14:54.700Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.81,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 4.8,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.34,
+      "distance_to_tower_m": 18.1
+    },
+    {
+      "frame_id": 1148,
+      "timestamp_utc": "2024-12-10T12:14:54.800Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.811,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 6.9,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.38,
+      "distance_to_tower_m": 18.34
+    },
+    {
+      "frame_id": 1149,
+      "timestamp_utc": "2024-12-10T12:14:54.900Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.789,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 8.5,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.34,
+      "distance_to_tower_m": 18.56
+    },
+    {
+      "frame_id": 1150,
+      "timestamp_utc": "2024-12-10T12:14:55.000Z",
+      "mission_id": "MISSION_0060",
+      "site_id": "SITE_BOM_001",
+      "anomaly_class": "structural_crack",
+      "confidence": 0.816,
+      "bbox_xywh": [
+        131,
+        165,
+        95,
+        66
+      ],
+      "gps": {
+        "lat": 19.0760139,
+        "lon": 72.8777179,
+        "alt_m": 23.25
+      },
+      "ir_temp_delta_c": 7.0,
+      "inspection_phase": "cabinet_inspection",
+      "drone_alt_m": 39.42,
+      "distance_to_tower_m": 18.13
+    }
+  ]
+}

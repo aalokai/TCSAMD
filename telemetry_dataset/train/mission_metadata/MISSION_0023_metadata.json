@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0023",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_CHE_004",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "city": "Chennai",
+    "tower_type": "monopole",
+    "height_m": 38
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "Sony ILX-LR1 (4K)",
+  "pilot": "PILOT_003",
+  "operator": "Indus Towers",
+  "total_frames": 1470,
+  "anomaly_frames": 61,
+  "anomaly_rate_pct": 4.15,
+  "flight_date": "2024-09-16",
+  "weather": "haze",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-69022",
+  "firmware_version": "v8.3.07"
+}

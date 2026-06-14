@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0030",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_BOM_001",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "city": "Mumbai",
+    "tower_type": "lattice",
+    "height_m": 42
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_006",
+  "operator": "Indus Towers",
+  "total_frames": 750,
+  "anomaly_frames": 0,
+  "anomaly_rate_pct": 0.0,
+  "flight_date": "2024-04-01",
+  "weather": "partly_cloudy",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-22076",
+  "firmware_version": "v8.4.93"
+}

@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0097",
+  "split": "test",
+  "site": {
+    "site_id": "SITE_AMD_008",
+    "lat": 23.0225,
+    "lon": 72.5714,
+    "city": "Ahmedabad",
+    "tower_type": "lattice",
+    "height_m": 45
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_005",
+  "operator": "Indus Towers",
+  "total_frames": 1700,
+  "anomaly_frames": 71,
+  "anomaly_rate_pct": 4.18,
+  "flight_date": "2024-05-25",
+  "weather": "clear",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-27284",
+  "firmware_version": "v6.6.44"
+}

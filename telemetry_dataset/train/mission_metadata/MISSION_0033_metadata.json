@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0033",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_CHE_004",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "city": "Chennai",
+    "tower_type": "monopole",
+    "height_m": 38
+  },
+  "drone_model": "DJI Matrice 300 RTK",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "Sony ILX-LR1 (4K)",
+  "pilot": "PILOT_010",
+  "operator": "TowerCo India",
+  "total_frames": 1600,
+  "anomaly_frames": 81,
+  "anomaly_rate_pct": 5.06,
+  "flight_date": "2024-01-13",
+  "weather": "clear",
+  "inspection_type": "post_storm",
+  "regulatory_clearance": "DGCA-UAS-64968",
+  "firmware_version": "v5.3.35"
+}

@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0020",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_BOM_001",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "city": "Mumbai",
+    "tower_type": "lattice",
+    "height_m": 42
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "DJI Zenmuse H30T",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_005",
+  "operator": "TowerCo India",
+  "total_frames": 1390,
+  "anomaly_frames": 152,
+  "anomaly_rate_pct": 10.94,
+  "flight_date": "2024-02-23",
+  "weather": "overcast",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-62583",
+  "firmware_version": "v8.4.32"
+}

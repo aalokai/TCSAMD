@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0006",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_PUN_007",
+    "lat": 18.5204,
+    "lon": 73.8567,
+    "city": "Pune",
+    "tower_type": "monopole",
+    "height_m": 30
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_009",
+  "operator": "GTL Infra",
+  "total_frames": 630,
+  "anomaly_frames": 81,
+  "anomaly_rate_pct": 12.86,
+  "flight_date": "2024-10-09",
+  "weather": "haze",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-42602",
+  "firmware_version": "v9.6.77"
+}

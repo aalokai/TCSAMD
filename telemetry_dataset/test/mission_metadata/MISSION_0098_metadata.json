@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0098",
+  "split": "test",
+  "site": {
+    "site_id": "SITE_JAI_009",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "city": "Jaipur",
+    "tower_type": "monopole",
+    "height_m": 33
+  },
+  "drone_model": "Parrot ANAFI USA",
+  "thermal_camera": "FLIR Vue Pro R",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_008",
+  "operator": "Indus Towers",
+  "total_frames": 790,
+  "anomaly_frames": 223,
+  "anomaly_rate_pct": 28.23,
+  "flight_date": "2024-09-20",
+  "weather": "haze",
+  "inspection_type": "commissioning",
+  "regulatory_clearance": "DGCA-UAS-25800",
+  "firmware_version": "v5.4.71"
+}

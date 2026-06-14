@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0035",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_KOL_006",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "city": "Kolkata",
+    "tower_type": "lattice",
+    "height_m": 48
+  },
+  "drone_model": "DJI Matrice 30T",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_010",
+  "operator": "TowerCo India",
+  "total_frames": 1390,
+  "anomaly_frames": 192,
+  "anomaly_rate_pct": 13.81,
+  "flight_date": "2024-04-01",
+  "weather": "overcast",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-20525",
+  "firmware_version": "v9.7.35"
+}

@@ -1,0 +1,57 @@
+# Drone Geospatial Telemetry Dataset — Cell Tower Inspection
+# Fuse with cell_tower_thermal/ using mission_id + frame_id
+
+name: Cell Tower Drone Telemetry Dataset
+version: '1.0'
+description: Geospatial telemetry logs from drone-based 5G/LTE cell tower inspections
+task: multimodal_anomaly_detection
+modalities:
+- thermal_imaging
+- geospatial_telemetry
+- 4k_rgb_video
+path: ../telemetry_dataset
+splits:
+  train:
+    path: train/
+    missions: 70
+  val:
+    path: val/
+    missions: 20
+  test:
+    path: test/
+    missions: 10
+total_missions: 100
+telemetry_fps: 10
+fields_per_frame: 63
+anomaly_classes:
+  0: hotspot_critical
+  1: hotspot_moderate
+  2: hotspot_minor
+  3: antenna_misalignment
+  4: cable_fault
+  5: connector_failure
+  6: corrosion
+  7: structural_crack
+  8: no_anomaly
+inspection_phases:
+- takeoff
+- transit
+- orbit_base
+- climb_tower
+- antenna_inspection
+- cable_inspection
+- cabinet_inspection
+- descent
+- landing
+tower_sites: 10
+coordinate_system: WGS84
+altitude_reference: AGL (Above Ground Level)
+schema_file: schema.json
+index_file: mission_index.csv
+compatible_with:
+- thermal_dataset (cell_tower_thermal/)
+- YOLOv8 detection heads
+- Pandas / GeoPandas
+- ROS2 bag conversion
+- QGIS / Google Earth Engine
+fusion_key: mission_id + frame_id

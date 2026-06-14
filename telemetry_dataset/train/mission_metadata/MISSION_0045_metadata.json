@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0045",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_KOL_006",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "city": "Kolkata",
+    "tower_type": "lattice",
+    "height_m": 48
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "Hasselblad L2D-20c",
+  "pilot": "PILOT_010",
+  "operator": "GTL Infra",
+  "total_frames": 1020,
+  "anomaly_frames": 61,
+  "anomaly_rate_pct": 5.98,
+  "flight_date": "2024-02-19",
+  "weather": "haze",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-27502",
+  "firmware_version": "v6.4.24"
+}

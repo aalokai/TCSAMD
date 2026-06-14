@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0090",
+  "split": "val",
+  "site": {
+    "site_id": "SITE_BOM_001",
+    "lat": 19.076,
+    "lon": 72.8777,
+    "city": "Mumbai",
+    "tower_type": "lattice",
+    "height_m": 42
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "Teledyne FLIR Boson+",
+  "rgb_camera": "DJI DL 50mm",
+  "pilot": "PILOT_004",
+  "operator": "TowerCo India",
+  "total_frames": 920,
+  "anomaly_frames": 253,
+  "anomaly_rate_pct": 27.5,
+  "flight_date": "2024-10-13",
+  "weather": "overcast",
+  "inspection_type": "emergency",
+  "regulatory_clearance": "DGCA-UAS-52520",
+  "firmware_version": "v8.8.15"
+}

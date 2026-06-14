@@ -1,0 +1,25 @@
+{
+  "mission_id": "MISSION_0011",
+  "split": "train",
+  "site": {
+    "site_id": "SITE_DEL_002",
+    "lat": 28.6139,
+    "lon": 77.209,
+    "city": "Delhi",
+    "tower_type": "monopole",
+    "height_m": 35
+  },
+  "drone_model": "Skydio X10",
+  "thermal_camera": "FLIR Zenmuse H20T",
+  "rgb_camera": "Sony ILX-LR1 (4K)",
+  "pilot": "PILOT_002",
+  "operator": "TASL",
+  "total_frames": 610,
+  "anomaly_frames": 172,
+  "anomaly_rate_pct": 28.2,
+  "flight_date": "2024-01-12",
+  "weather": "partly_cloudy",
+  "inspection_type": "routine",
+  "regulatory_clearance": "DGCA-UAS-82571",
+  "firmware_version": "v9.8.79"
+}
